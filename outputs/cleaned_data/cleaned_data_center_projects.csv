@@ -1,0 +1,801 @@
+Project_ID,Company,Announcement_Date,Year,Country,Region,City,Infrastructure_Type,AI_Focused,Capacity_MW,Investment_USD,Project_Status,Investment_Per_MW
+DC0001,NimbusCloud,2019-01-07,2019,United States,North America,Dallas,Hyperscale,No,43.7,438764000.0,Operational,10040366.132723112
+DC0002,Ironwood Data,2019-01-11,2019,United States,North America,Northern Virginia,Colocation,No,24.2,264858000.0,Operational,10944545.454545455
+DC0003,BlueRidge Colo,2019-01-21,2019,United States,North America,Northern Virginia,Colocation,No,21.1,216879000.0,Operational,10278625.592417061
+DC0004,Ironwood Data,2019-01-25,2019,Ireland,Europe,Dublin,Colocation,No,17.6,131669000.0,Operational,7481193.181818182
+DC0005,Meridian DC,2019-01-29,2019,United Arab Emirates,Middle East & Africa,Dubai,Colocation,No,34.2,302920000.0,Operational,8857309.941520467
+DC0006,Atlas Digital Infra,2019-02-13,2019,India,Asia Pacific,Chennai,Edge,No,3.3,36286000.0,Operational,10995757.575757576
+DC0007,Orbitron Data,2019-02-13,2019,Ireland,Europe,Dublin,Hyperscale,No,43.5,557039000.0,Operational,12805494.252873564
+DC0008,Indus DataHub,2019-02-14,2019,United Kingdom,Europe,London,Colocation,No,24.4,256020000.0,Operational,10492622.950819673
+DC0009,Helix Cloud,2019-02-17,2019,United States,North America,Phoenix,Hyperscale,No,65.5,669023000.0,Operational,10214091.603053436
+DC0010,NimbusCloud,2019-02-17,2019,United Kingdom,Europe,London,Hyperscale,No,19.3,220940000.0,Operational,11447668.393782383
+DC0011,Kestrel Enterprise IT,2019-03-05,2019,United States,North America,Dallas,Enterprise,No,12.0,101495000.0,Operational,8457916.666666666
+DC0012,Rhine Compute,2019-03-05,2019,France,Europe,Paris,AI Training Campus,Yes,85.1,2579516000.0,Operational,30311586.368977677
+DC0013,Indus DataHub,2019-03-14,2019,United Arab Emirates,Middle East & Africa,Dubai,Colocation,No,7.2,41720000.0,Operational,5794444.444444444
+DC0014,Andes Cloud,2019-03-17,2019,United States,North America,Dallas,Hyperscale,No,32.8,275810000.0,Operational,8408841.463414636
+DC0015,Meridian DC,2019-03-31,2019,India,Asia Pacific,Hyderabad,Colocation,No,19.1,114611000.0,Operational,6000575.916230366
+DC0016,Stratus Hyperscale,2019-04-04,2019,United States,North America,Silicon Valley,Hyperscale,No,29.0,354538000.0,Operational,12225448.27586207
+DC0017,Indus DataHub,2019-04-07,2019,United Kingdom,Europe,London,Colocation,No,28.1,256878000.0,Operational,9141565.836298931
+DC0018,Kestrel Enterprise IT,2019-04-08,2019,China,Asia Pacific,Beijing,Enterprise,No,6.6,72961000.0,Operational,11054696.96969697
+DC0019,BlueRidge Colo,2019-04-14,2019,United States,North America,Northern Virginia,Colocation,No,15.4,155684000.0,Operational,10109350.649350649
+DC0020,Kestrel Enterprise IT,2019-05-02,2019,United States,North America,Phoenix,Enterprise,No,4.1,33659000.0,Operational,8209512.195121952
+DC0021,Cedar Edge Networks,2019-05-08,2019,United States,North America,Phoenix,Edge,No,2.2,28894000.0,Operational,13133636.363636363
+DC0022,Sakura Datacom,2019-05-19,2019,United States,North America,Phoenix,Colocation,No,26.6,285542000.0,Operational,10734661.654135337
+DC0023,NimbusCloud,2019-05-22,2019,Germany,Europe,Frankfurt,Hyperscale,No,47.8,546403000.0,Cancelled,11431025.104602512
+DC0024,Meridian DC,2019-06-06,2019,Mexico,Latin America,Queretaro,Colocation,No,9.7,86038000.0,Operational,8869896.907216495
+DC0025,BlueRidge Colo,2019-06-21,2019,United States,North America,Northern Virginia,Colocation,No,32.0,383398000.0,Operational,11981187.5
+DC0026,Stratus Hyperscale,2019-06-30,2019,Saudi Arabia,Middle East & Africa,Riyadh,Hyperscale,No,37.9,329930000.0,Operational,8705277.044854881
+DC0027,Indus DataHub,2019-07-07,2019,India,Asia Pacific,Mumbai,Colocation,No,5.9,45310000.0,Operational,7679661.016949152
+DC0028,Meridian DC,2019-07-12,2019,China,Asia Pacific,Beijing,Colocation,No,4.4,31839000.0,Operational,7236136.363636363
+DC0029,Kestrel Enterprise IT,2019-07-26,2019,United States,North America,Dallas,Enterprise,No,12.5,121336000.0,Operational,9706880.0
+DC0030,Kestrel Enterprise IT,2019-08-16,2019,Ireland,Europe,Dublin,Enterprise,No,14.5,150010000.0,Operational,10345517.24137931
+DC0031,Orbitron Data,2019-09-02,2019,United States,North America,Northern Virginia,Hyperscale,No,41.3,415410000.0,Operational,10058353.510895884
+DC0032,BlueRidge Colo,2019-09-12,2019,Sweden,Europe,Stockholm,Colocation,No,23.4,219013000.0,Operational,9359529.914529916
+DC0033,Meridian DC,2019-09-20,2019,United States,North America,Northern Virginia,Colocation,No,11.1,83490000.0,Operational,7521621.621621622
+DC0034,Meridian DC,2019-09-30,2019,United States,North America,Dallas,Edge,No,1.2,13489000.0,Cancelled,11240833.333333334
+DC0035,Helix Cloud,2019-10-02,2019,India,Asia Pacific,Chennai,Hyperscale,No,56.1,367021000.0,Operational,6542263.814616756
+DC0036,NimbusCloud,2019-10-06,2019,South Korea,Asia Pacific,Seoul,Hyperscale,No,35.3,256668000.0,Operational,7271048.158640227
+DC0037,Sakura Datacom,2019-11-06,2019,United States,North America,Phoenix,Colocation,No,25.6,207459000.0,Operational,8103867.1875
+DC0038,Meridian DC,2019-11-14,2019,United States,North America,Dallas,Colocation,No,20.6,186329000.0,Operational,9045097.08737864
+DC0039,Orbitron Data,2019-11-17,2019,Ireland,Europe,Dublin,Hyperscale,No,52.1,393723000.0,Operational,7557063.339731285
+DC0040,Andes Cloud,2019-11-19,2019,United States,North America,Northern Virginia,Hyperscale,No,50.9,531875000.0,Operational,10449410.609037329
+DC0041,Sakura Datacom,2019-12-02,2019,France,Europe,Paris,Colocation,No,27.7,299432000.0,Operational,10809819.494584838
+DC0042,Orbitron Data,2019-12-14,2019,United States,North America,Atlanta,Hyperscale,No,21.1,227175000.0,Operational,10766587.677725118
+DC0043,Indus DataHub,2019-12-24,2019,United States,North America,Phoenix,Colocation,No,23.4,200208000.0,Operational,8555897.435897436
+DC0044,BlueRidge Colo,2019-12-27,2019,United States,North America,Unknown,Colocation,No,13.0,138725000.0,Operational,10671153.846153846
+DC0045,Pacifica Telecom Data,2019-12-29,2019,United States,North America,Phoenix,Enterprise,No,3.2,25173000.0,Operational,7866562.5
+DC0046,NimbusCloud,2020-01-01,2020,China,Asia Pacific,Beijing,Hyperscale,No,36.2,226956000.0,Operational,6269502.762430939
+DC0047,Stratus Hyperscale,2020-01-02,2020,United States,North America,Northern Virginia,Hyperscale,No,42.1,599013000.0,Operational,14228337.29216152
+DC0048,Gulfstream Digital,2020-01-13,2020,Canada,North America,Montreal,Colocation,No,89.1,711184000.0,Operational,7981863.075196409
+DC0049,Stratus Hyperscale,2020-01-29,2020,China,Asia Pacific,Beijing,Hyperscale,No,25.2,260592000.0,Operational,10340952.38095238
+DC0050,BlueRidge Colo,2020-02-05,2020,Japan,Asia Pacific,Tokyo,Colocation,No,25.8,354470000.0,Operational,13739147.286821704
+DC0051,Meridian DC,2020-02-11,2020,India,Asia Pacific,Mumbai,Colocation,No,18.9,188850000.0,Operational,9992063.492063493
+DC0052,Sakura Datacom,2020-02-18,2020,United States,North America,Phoenix,Colocation,No,20.1,148071000.0,Operational,7366716.417910447
+DC0053,Sakura Datacom,2020-02-26,2020,United Arab Emirates,Middle East & Africa,Dubai,Colocation,No,48.6,472556000.0,Operational,9723374.485596707
+DC0054,NimbusCloud,2020-03-02,2020,United States,North America,Silicon Valley,Hyperscale,No,57.2,781055000.0,Operational,13654807.692307692
+DC0055,Kestrel Enterprise IT,2020-03-08,2020,United States,North America,Northern Virginia,Enterprise,No,3.5,34052000.0,Operational,9729142.857142856
+DC0056,Cedar Edge Networks,2020-03-12,2020,United States,North America,Northern Virginia,Edge,No,3.6,31212000.0,Operational,8670000.0
+DC0057,Sakura Datacom,2020-03-13,2020,India,Asia Pacific,Chennai,Colocation,No,23.0,224562000.0,Operational,9763565.217391305
+DC0058,Meridian DC,2020-03-23,2020,China,Asia Pacific,Beijing,Colocation,No,60.8,337062000.0,Operational,5543782.894736842
+DC0059,Andes Cloud,2020-03-29,2020,United States,North America,Phoenix,Hyperscale,No,43.0,380346000.0,Operational,8845255.813953489
+DC0060,Andes Cloud,2020-04-08,2020,India,Asia Pacific,Mumbai,AI Inference Cluster,Yes,21.6,347059000.0,Operational,16067546.296296295
+DC0061,Stratus Hyperscale,2020-04-13,2020,Mexico,Latin America,Queretaro,Hyperscale,No,45.6,422925000.0,Operational,9274671.05263158
+DC0062,Pacifica Telecom Data,2020-04-24,2020,Sweden,Europe,Stockholm,Enterprise,No,14.3,125087000.0,Operational,8747342.657342657
+DC0063,NimbusCloud,2020-04-25,2020,Australia,Asia Pacific,Sydney,Hyperscale,No,57.9,661386000.0,Operational,11422901.554404145
+DC0064,Pacifica Telecom Data,2020-04-30,2020,Saudi Arabia,Middle East & Africa,Riyadh,Enterprise,No,15.9,114757000.0,Operational,7217421.383647799
+DC0065,BlueRidge Colo,2020-05-14,2020,United States,North America,Northern Virginia,Colocation,No,25.7,384054000.0,Operational,14943735.408560311
+DC0066,Andes Cloud,2020-05-22,2020,Mexico,Latin America,Queretaro,AI Inference Cluster,Yes,6.1,115031000.0,Operational,18857540.98360656
+DC0067,Andes Cloud,2020-06-11,2020,United States,North America,Dallas,Hyperscale,No,67.8,553928000.0,Operational,8170029.498525074
+DC0068,Andes Cloud,2020-06-13,2020,Japan,Asia Pacific,Tokyo,Hyperscale,No,73.8,976465000.0,Operational,13231233.062330624
+DC0069,Pacifica Telecom Data,2020-06-13,2020,Ireland,Europe,Dublin,Enterprise,No,6.8,84329000.0,Operational,12401323.529411765
+DC0070,Ironwood Data,2020-06-17,2020,United States,North America,Phoenix,Colocation,No,29.0,295845000.0,Under Construction,10201551.72413793
+DC0071,Sakura Datacom,2020-06-18,2020,Japan,Asia Pacific,Tokyo,Colocation,No,11.1,132321000.0,Operational,11920810.810810812
+DC0072,Helix Cloud,2020-06-21,2020,United Arab Emirates,Middle East & Africa,Dubai,Hyperscale,No,76.1,873949000.0,Operational,11484218.134034166
+DC0073,Meridian DC,2020-07-03,2020,India,Asia Pacific,Mumbai,Colocation,No,8.8,73955000.0,Operational,8403977.272727272
+DC0074,Atlas Digital Infra,2020-07-15,2020,India,Asia Pacific,Hyderabad,Colocation,No,24.1,130446000.0,Operational,5412697.095435685
+DC0075,Helix Cloud,2020-08-07,2020,France,Europe,Paris,Hyperscale,No,29.5,404650000.0,Operational,13716949.152542373
+DC0076,Pacifica Telecom Data,2020-08-20,2020,United States,North America,Northern Virginia,Enterprise,No,6.7,68224000.0,Under Construction,10182686.567164179
+DC0077,Pacifica Telecom Data,2020-08-22,2020,Singapore,Asia Pacific,Singapore,Enterprise,No,2.1,29543000.0,Operational,14068095.238095237
+DC0078,Kestrel Enterprise IT,2020-08-23,2020,Mexico,Latin America,Queretaro,Enterprise,No,5.6,39880000.0,Under Construction,7121428.571428572
+DC0079,Ironwood Data,2020-08-29,2020,China,Asia Pacific,Beijing,Colocation,No,4.3,38692000.0,Under Construction,8998139.53488372
+DC0080,Atlas Digital Infra,2020-09-15,2020,Australia,Asia Pacific,Sydney,Colocation,No,20.3,217627000.0,Operational,10720541.871921182
+DC0081,Helix Cloud,2020-09-22,2020,United States,North America,Northern Virginia,Hyperscale,No,35.5,444360000.0,Under Construction,12517183.09859155
+DC0082,Quanta Racks,2020-09-23,2020,United States,North America,Silicon Valley,AI Inference Cluster,Yes,32.5,697166000.0,Operational,21451261.53846154
+DC0083,Pacifica Telecom Data,2020-10-06,2020,United States,North America,Northern Virginia,Edge,No,2.3,21681000.0,Operational,9426521.739130436
+DC0084,Atlas Digital Infra,2020-10-13,2020,Ireland,Europe,Dublin,Colocation,No,17.1,195345000.0,Operational,11423684.210526315
+DC0085,Kestrel Enterprise IT,2020-10-19,2020,United States,North America,Northern Virginia,Enterprise,No,5.3,41516000.0,Operational,7833207.547169812
+DC0086,Stratus Hyperscale,2020-10-27,2020,Brazil,Latin America,Sao Paulo,Hyperscale,No,67.3,615207000.0,Operational,9141263.001485884
+DC0087,Atlas Digital Infra,2020-10-31,2020,India,Asia Pacific,Chennai,Edge,No,5.9,51825000.0,Operational,8783898.305084744
+DC0088,Helix Cloud,2020-11-12,2020,United States,North America,Dallas,Hyperscale,No,45.5,444841000.0,Operational,9776725.274725275
+DC0089,BlueRidge Colo,2020-11-18,2020,United States,North America,Columbus,Edge,No,1.9,16679000.0,Operational,8778421.05263158
+DC0090,Pacifica Telecom Data,2020-12-04,2020,United States,North America,Northern Virginia,Enterprise,No,8.0,76929000.0,Operational,9616125.0
+DC0091,Pacifica Telecom Data,2020-12-14,2020,Canada,North America,Montreal,Enterprise,No,5.6,52251000.0,Operational,9330535.714285715
+DC0092,Helix Cloud,2020-12-20,2020,Japan,Asia Pacific,Tokyo,Hyperscale,No,109.2,1636257000.0,Operational,14984038.461538462
+DC0093,Pacifica Telecom Data,2021-01-04,2021,United Arab Emirates,Middle East & Africa,Dubai,Enterprise,No,5.1,39312000.0,Operational,7708235.294117647
+DC0094,Andes Cloud,2021-01-04,2021,United States,North America,Silicon Valley,Hyperscale,No,55.7,1058974000.0,Operational,19012100.53859964
+DC0095,Stratus Hyperscale,2021-01-09,2021,Canada,North America,Montreal,Hyperscale,No,40.9,482539000.0,Operational,11798019.5599022
+DC0096,Ironwood Data,2021-01-11,2021,Mexico,Latin America,Queretaro,Colocation,No,18.6,116523000.0,Operational,6264677.419354838
+DC0097,Orbitron Data,2021-01-25,2021,Ireland,Europe,Dublin,Hyperscale,No,83.1,936490000.0,Operational,11269434.416365825
+DC0098,Atlas Digital Infra,2021-01-27,2021,United States,North America,Phoenix,Colocation,No,7.7,112344000.0,Operational,14590129.87012987
+DC0099,Cedar Edge Networks,2021-01-28,2021,Netherlands,Europe,Amsterdam,Edge,No,3.3,16682000.0,Operational,5055151.515151516
+DC0100,Orbitron Data,2021-02-13,2021,Japan,Asia Pacific,Tokyo,Hyperscale,No,40.5,522971000.0,Operational,12912864.197530864
+DC0101,BlueRidge Colo,2021-02-18,2021,India,Asia Pacific,Mumbai,Edge,No,1.6,11135000.0,Operational,6959375.0
+DC0102,NimbusCloud,2021-02-23,2021,United States,North America,Atlanta,Hyperscale,No,29.6,258167000.0,Operational,8721858.108108107
+DC0103,Pacifica Telecom Data,2021-03-11,2021,United States,North America,Dallas,Enterprise,No,9.2,51644000.0,Operational,5613478.260869565
+DC0104,Helix Cloud,2021-03-12,2021,China,Asia Pacific,Beijing,Hyperscale,No,136.3,1022461000.0,Operational,7501548.055759354
+DC0105,Quanta Racks,2021-03-19,2021,United States,North America,Phoenix,AI Training Campus,Yes,181.9,4077255000.0,Operational,22414815.832875207
+DC0106,Gulfstream Digital,2021-03-31,2021,United States,North America,Columbus,Colocation,No,39.1,431426000.0,Operational,11033913.04347826
+DC0107,Zenith Compute,2021-04-01,2021,Ireland,Europe,Dublin,AI Inference Cluster,Yes,71.9,1791771000.0,Operational,24920319.88873435
+DC0108,Atlas Digital Infra,2021-04-03,2021,China,Asia Pacific,Shanghai,Colocation,No,46.7,465798000.0,Operational,9974261.241970021
+DC0109,Helix Cloud,2021-04-08,2021,Australia,Asia Pacific,Sydney,Hyperscale,No,37.0,438622000.0,Operational,11854648.64864865
+DC0110,Andes Cloud,2021-04-10,2021,Sweden,Europe,Stockholm,Hyperscale,No,78.2,817975000.0,Operational,10460038.363171356
+DC0111,Zenith Compute,2021-04-16,2021,Japan,Asia Pacific,Tokyo,AI Training Campus,Yes,25.6,409086000.0,Operational,15979921.875
+DC0112,Andes Cloud,2021-04-25,2021,United States,North America,Dallas,Hyperscale,No,68.3,839421000.0,Cancelled,12290204.978038067
+DC0113,Orbitron Data,2021-04-29,2021,Saudi Arabia,Middle East & Africa,Riyadh,Hyperscale,No,68.3,507378000.0,Operational,7428667.642752563
+DC0114,Indus DataHub,2021-04-30,2021,Netherlands,Europe,Amsterdam,Edge,No,2.4,20115000.0,Operational,8381250.0
+DC0115,Kestrel Enterprise IT,2021-05-05,2021,France,Europe,Paris,Enterprise,No,4.9,43198000.0,Operational,8815918.367346939
+DC0116,Andes Cloud,2021-05-09,2021,Mexico,Latin America,Queretaro,Hyperscale,No,31.4,279952000.0,Operational,8915668.789808918
+DC0117,Stratus Hyperscale,2021-05-22,2021,Saudi Arabia,Middle East & Africa,Riyadh,Hyperscale,No,84.1,736112000.0,Operational,8752818.07372176
+DC0118,Andes Cloud,2021-05-24,2021,Mexico,Latin America,Queretaro,Hyperscale,No,120.9,1590265000.0,Operational,13153556.658395367
+DC0119,Stratus Hyperscale,2021-05-24,2021,Malaysia,Asia Pacific,Johor,Hyperscale,No,132.7,1578167000.0,Operational,11892743.029389601
+DC0120,Indus DataHub,2021-05-25,2021,Netherlands,Europe,Amsterdam,Colocation,No,46.8,513653000.0,Operational,10975491.452991454
+DC0121,BlueRidge Colo,2021-05-27,2021,United Arab Emirates,Middle East & Africa,Dubai,Colocation,No,59.3,725720000.0,Operational,12238111.298482293
+DC0122,NimbusCloud,2021-05-28,2021,United Kingdom,Europe,London,Hyperscale,No,27.0,286416000.0,Operational,10608000.0
+DC0123,Stratus Hyperscale,2021-05-31,2021,China,Asia Pacific,Beijing,Hyperscale,No,46.1,517444000.0,Operational,11224381.778741864
+DC0124,Indus DataHub,2021-06-02,2021,Canada,North America,Montreal,Edge,No,6.9,53314000.0,Operational,7726666.666666666
+DC0125,Meridian DC,2021-06-05,2021,India,Asia Pacific,Hyderabad,Colocation,No,22.3,232704000.0,Operational,10435156.950672645
+DC0126,Pacifica Telecom Data,2021-06-05,2021,Saudi Arabia,Middle East & Africa,Riyadh,Enterprise,No,3.2,34487000.0,Operational,10777187.5
+DC0127,Andes Cloud,2021-06-06,2021,Saudi Arabia,Middle East & Africa,Riyadh,Hyperscale,No,91.2,963545000.0,Operational,10565186.403508771
+DC0128,Ironwood Data,2021-06-07,2021,France,Europe,Paris,Edge,No,1.7,23232000.0,Operational,13665882.352941176
+DC0129,Meridian DC,2021-06-09,2021,Singapore,Asia Pacific,Singapore,Edge,No,3.4,59105000.0,Operational,17383823.529411767
+DC0130,Andes Cloud,2021-06-17,2021,United States,North America,Dallas,Hyperscale,No,16.7,216498000.0,Operational,12963952.095808383
+DC0131,BlueRidge Colo,2021-06-19,2021,Australia,Asia Pacific,Sydney,Colocation,No,20.4,265372000.0,Operational,13008431.37254902
+DC0132,Gulfstream Digital,2021-06-27,2021,South Korea,Asia Pacific,Seoul,Colocation,No,9.3,100367000.0,Operational,10792150.537634408
+DC0133,Ironwood Data,2021-06-27,2021,United States,North America,Dallas,Colocation,No,18.6,194308000.0,Operational,10446666.666666666
+DC0134,Helix Cloud,2021-07-03,2021,France,Europe,Paris,Hyperscale,No,31.4,353000000.0,Operational,11242038.21656051
+DC0135,BlueRidge Colo,2021-07-05,2021,United States,North America,Columbus,Colocation,No,33.4,428054000.0,Operational,12815988.023952097
+DC0136,NimbusCloud,2021-08-11,2021,United States,North America,Atlanta,AI Training Campus,Yes,99.1,1872324000.0,Under Construction,18893279.51564077
+DC0137,Andes Cloud,2021-08-19,2021,United States,North America,Columbus,Hyperscale,No,72.8,1073795000.0,Operational,14749931.31868132
+DC0138,Indus DataHub,2021-08-22,2021,Australia,Asia Pacific,Sydney,Colocation,No,27.5,303079000.0,Operational,11021054.545454545
+DC0139,Indus DataHub,2021-08-29,2021,Germany,Europe,Frankfurt,Colocation,No,40.3,459051000.0,Operational,11390843.672456576
+DC0140,NimbusCloud,2021-08-30,2021,United States,North America,Dallas,Hyperscale,No,61.5,646112000.0,Cancelled,10505886.17886179
+DC0141,Quanta Racks,2021-09-10,2021,India,Asia Pacific,Hyderabad,AI Inference Cluster,Yes,22.9,368483000.0,Operational,16090960.698689958
+DC0142,Zenith Compute,2021-09-10,2021,Netherlands,Europe,Amsterdam,AI Inference Cluster,Yes,25.3,516601000.0,Operational,20419011.857707508
+DC0143,Helix Cloud,2021-09-11,2021,United States,North America,Northern Virginia,Hyperscale,No,95.2,1089886000.0,Operational,11448382.352941176
+DC0144,BlueRidge Colo,2021-09-22,2021,United States,North America,Columbus,Colocation,No,50.9,518521000.0,Operational,10187053.04518664
+DC0145,Stratus Hyperscale,2021-09-23,2021,India,Asia Pacific,Mumbai,Hyperscale,No,34.2,341306000.0,Under Construction,9979707.60233918
+DC0146,Helix Cloud,2021-09-25,2021,Malaysia,Asia Pacific,Johor,Hyperscale,No,325.1,4165655000.0,Operational,12813457.397723777
+DC0147,Sakura Datacom,2021-10-09,2021,Ireland,Europe,Dublin,Colocation,No,18.5,174163000.0,Operational,9414216.216216216
+DC0148,Andes Cloud,2021-10-13,2021,Sweden,Europe,Stockholm,AI Inference Cluster,Yes,46.4,897611000.0,Operational,19345064.655172415
+DC0149,Ironwood Data,2021-10-14,2021,United States,North America,Northern Virginia,Colocation,No,64.8,617754000.0,Operational,9533240.74074074
+DC0150,Gulfstream Digital,2021-10-17,2021,United States,North America,Silicon Valley,Colocation,No,33.1,473505000.0,Operational,14305287.009063443
+DC0151,Andes Cloud,2021-10-21,2021,Malaysia,Asia Pacific,Johor,Hyperscale,No,44.7,268540000.0,Operational,6007606.263982102
+DC0152,Helix Cloud,2021-10-26,2021,United States,North America,Northern Virginia,Hyperscale,No,38.9,536972000.0,Cancelled,13803907.455012854
+DC0153,Gulfstream Digital,2021-10-27,2021,China,Asia Pacific,Shanghai,Edge,No,2.0,21513000.0,Operational,10756500.0
+DC0154,Meridian DC,2021-10-27,2021,United States,North America,Dallas,Edge,No,1.3,16932000.0,Operational,13024615.384615384
+DC0155,Helix Cloud,2021-10-27,2021,China,Asia Pacific,Shanghai,Hyperscale,No,33.9,281848000.0,Operational,8314100.2949852515
+DC0156,Indus DataHub,2021-10-29,2021,United States,North America,Phoenix,Colocation,No,20.8,222226000.0,Cancelled,10683942.307692308
+DC0157,Meridian DC,2021-11-02,2021,Germany,Europe,Frankfurt,Colocation,No,19.9,179551000.0,Operational,9022663.316582914
+DC0158,NimbusCloud,2021-11-03,2021,India,Asia Pacific,Hyderabad,Hyperscale,No,31.7,362505000.0,Operational,11435488.958990537
+DC0159,Helix Cloud,2021-11-04,2021,India,Asia Pacific,Mumbai,Hyperscale,No,21.7,94956000.0,Operational,4375852.534562212
+DC0160,Stratus Hyperscale,2021-11-04,2021,Sweden,Europe,Stockholm,Hyperscale,No,74.9,885926000.0,Operational,11828117.489986649
+DC0161,Sakura Datacom,2021-11-05,2021,Netherlands,Europe,Amsterdam,Edge,No,2.1,20505000.0,Operational,9764285.714285715
+DC0162,Stratus Hyperscale,2021-11-06,2021,India,Asia Pacific,Mumbai,Hyperscale,No,42.6,254384000.0,Operational,5971455.399061033
+DC0163,Pacifica Telecom Data,2021-11-07,2021,United States,North America,Dallas,Enterprise,No,3.2,28203000.0,Operational,8813437.5
+DC0164,Kestrel Enterprise IT,2021-11-08,2021,China,Asia Pacific,Shanghai,Enterprise,No,4.3,46437000.0,Operational,10799302.325581396
+DC0165,Orbitron Data,2021-11-18,2021,United States,North America,Northern Virginia,Hyperscale,No,73.0,614717000.0,Cancelled,8420780.821917808
+DC0166,Stratus Hyperscale,2021-12-08,2021,United States,North America,Atlanta,Hyperscale,No,62.3,674189000.0,Cancelled,10821653.290529696
+DC0167,Cedar Edge Networks,2021-12-10,2021,United States,North America,Atlanta,Edge,No,1.3,12505000.0,Operational,9619230.769230768
+DC0168,Sakura Datacom,2021-12-16,2021,China,Asia Pacific,Beijing,Edge,No,4.1,40832000.0,Operational,9959024.390243903
+DC0169,Stratus Hyperscale,2021-12-25,2021,India,Asia Pacific,Hyderabad,Hyperscale,No,19.0,190636000.0,Operational,10033473.684210526
+DC0170,Gulfstream Digital,2021-12-28,2021,United Arab Emirates,Middle East & Africa,Dubai,Colocation,No,12.2,107032000.0,Under Construction,8773114.754098361
+DC0171,Orbitron Data,2022-01-09,2022,Sweden,Europe,Stockholm,Hyperscale,No,101.2,1409436000.0,Operational,13927233.201581027
+DC0172,Indus DataHub,2022-01-14,2022,Netherlands,Europe,Amsterdam,Colocation,No,21.8,345518000.0,Operational,15849449.541284403
+DC0173,Stratus Hyperscale,2022-01-22,2022,Brazil,Latin America,Sao Paulo,Hyperscale,No,52.8,640215000.0,Operational,12125284.090909092
+DC0174,BlueRidge Colo,2022-02-07,2022,South Korea,Asia Pacific,Seoul,Colocation,No,12.2,120430000.0,Operational,9871311.475409837
+DC0175,Gulfstream Digital,2022-02-08,2022,United States,North America,Atlanta,Colocation,No,12.0,126427000.0,Operational,10535583.333333334
+DC0176,Helix Cloud,2022-02-08,2022,India,Asia Pacific,Hyderabad,Hyperscale,No,70.4,552380000.0,Operational,7846306.818181817
+DC0177,Kestrel Enterprise IT,2022-02-10,2022,Germany,Europe,Frankfurt,Enterprise,No,10.5,142819000.0,Operational,13601809.523809524
+DC0178,Ironwood Data,2022-02-14,2022,Germany,Europe,Frankfurt,Colocation,No,28.8,342935000.0,Operational,11907465.277777778
+DC0179,Stratus Hyperscale,2022-02-23,2022,Japan,Asia Pacific,Tokyo,Hyperscale,No,316.4,3606448000.0,Operational,11398381.795195956
+DC0180,Gulfstream Digital,2022-02-25,2022,Singapore,Asia Pacific,Singapore,Colocation,No,28.5,436289000.0,Operational,15308385.96491228
+DC0181,Sakura Datacom,2022-02-26,2022,Malaysia,Asia Pacific,Johor,Colocation,No,20.3,,Operational,
+DC0182,Stratus Hyperscale,2022-02-27,2022,Mexico,Latin America,Queretaro,Hyperscale,No,92.9,971749000.0,Under Construction,10460161.463939719
+DC0183,Meridian DC,2022-03-09,2022,South Africa,Middle East & Africa,Johannesburg,Edge,No,0.9,7976000.0,Operational,8862222.222222222
+DC0184,Ironwood Data,2022-03-10,2022,Singapore,Asia Pacific,Singapore,Edge,No,5.3,65606000.0,Operational,12378490.566037737
+DC0185,Pacifica Telecom Data,2022-03-25,2022,United States,North America,Dallas,Enterprise,No,5.9,65133000.0,Operational,11039491.525423728
+DC0186,BlueRidge Colo,2022-03-28,2022,Brazil,Latin America,Sao Paulo,Colocation,No,39.2,290260000.0,Operational,7404591.8367346935
+DC0187,Pacifica Telecom Data,2022-04-01,2022,United States,North America,Northern Virginia,Enterprise,No,30.8,335414000.0,Operational,10890064.935064934
+DC0188,Pacifica Telecom Data,2022-04-05,2022,Brazil,Latin America,Sao Paulo,Edge,No,2.1,17878000.0,Operational,8513333.333333332
+DC0189,Zenith Compute,2022-04-07,2022,Germany,Europe,Frankfurt,AI Training Campus,Yes,78.4,3050195000.0,Cancelled,38905548.469387755
+DC0190,Ironwood Data,2022-04-16,2022,Singapore,Asia Pacific,Singapore,Colocation,No,8.7,139584000.0,Operational,16044137.931034485
+DC0191,Pacifica Telecom Data,2022-05-01,2022,South Korea,Asia Pacific,Seoul,Edge,No,4.1,38418000.0,Operational,9370243.902439024
+DC0192,Gulfstream Digital,2022-05-08,2022,United States,North America,Northern Virginia,Colocation,No,29.6,251584000.0,Operational,8499459.45945946
+DC0193,Indus DataHub,2022-05-10,2022,Malaysia,Asia Pacific,Johor,Colocation,No,28.5,233512000.0,Operational,8193403.50877193
+DC0194,Pacifica Telecom Data,2022-05-12,2022,United Arab Emirates,Middle East & Africa,Dubai,Enterprise,No,10.6,,Operational,
+DC0195,NimbusCloud,2022-05-20,2022,United Kingdom,Europe,London,Hyperscale,No,163.9,1897536000.0,Operational,11577400.854179377
+DC0196,Sakura Datacom,2022-05-20,2022,United States,North America,Phoenix,Colocation,No,28.6,282012000.0,Operational,9860559.44055944
+DC0197,Ironwood Data,2022-05-23,2022,United States,North America,Atlanta,Edge,No,9.3,128400000.0,Operational,13806451.612903224
+DC0198,Sakura Datacom,2022-05-24,2022,Singapore,Asia Pacific,Singapore,Edge,No,5.6,67025000.0,Operational,11968750.0
+DC0199,NimbusCloud,2022-05-24,2022,France,Europe,Paris,Hyperscale,No,54.7,529820000.0,Operational,9685923.217550274
+DC0200,Helix Cloud,2022-06-05,2022,India,Asia Pacific,Hyderabad,Hyperscale,No,31.6,283209000.0,Operational,8962310.126582278
+DC0201,Indus DataHub,2022-06-06,2022,United States,North America,Dallas,Colocation,No,31.5,347236000.0,Operational,11023365.07936508
+DC0202,Stratus Hyperscale,2022-06-14,2022,United States,North America,Atlanta,Hyperscale,No,134.2,1497481000.0,Operational,11158576.751117736
+DC0203,Stratus Hyperscale,2022-06-14,2022,Germany,Europe,Frankfurt,Hyperscale,No,31.9,403344000.0,Operational,12644012.539184954
+DC0204,Andes Cloud,2022-06-18,2022,United States,North America,Northern Virginia,Hyperscale,No,22.9,305207000.0,Operational,13327816.593886463
+DC0205,Stratus Hyperscale,2022-06-19,2022,France,Europe,Paris,Hyperscale,No,49.5,869115000.0,Operational,17557878.78787879
+DC0206,Ironwood Data,2022-06-19,2022,China,Asia Pacific,Beijing,Colocation,No,13.6,122863000.0,Operational,9034044.11764706
+DC0207,Kestrel Enterprise IT,2022-07-06,2022,South Korea,Asia Pacific,Seoul,Enterprise,No,6.7,44415000.0,Operational,6629104.47761194
+DC0208,Vertex AI Compute,2022-07-09,2022,United States,North America,Northern Virginia,AI Training Campus,Yes,54.3,804289000.0,Operational,14811952.11786372
+DC0209,Helix Cloud,2022-07-10,2022,United States,North America,Dallas,Hyperscale,No,71.5,921706000.0,Operational,12890993.006993007
+DC0210,Rhine Compute,2022-07-11,2022,Canada,North America,Montreal,AI Training Campus,Yes,63.9,2032609000.0,Operational,31809217.527386542
+DC0211,Andes Cloud,2022-07-13,2022,United States,North America,Northern Virginia,Hyperscale,No,55.6,667258000.0,Operational,12001043.165467625
+DC0212,Stratus Hyperscale,2022-07-15,2022,South Africa,Middle East & Africa,Unknown,Hyperscale,No,50.2,707871000.0,Operational,14101015.93625498
+DC0213,Kestrel Enterprise IT,2022-07-18,2022,United States,North America,Northern Virginia,Enterprise,No,9.9,122999000.0,Operational,12424141.414141413
+DC0214,Atlas Digital Infra,2022-07-20,2022,United Kingdom,Europe,London,Colocation,No,59.6,601842000.0,Operational,10098020.134228189
+DC0215,BlueRidge Colo,2022-07-25,2022,Mexico,Latin America,Queretaro,Edge,No,1.9,20294000.0,Operational,10681052.631578948
+DC0216,Ironwood Data,2022-08-08,2022,Canada,North America,Montreal,Edge,No,2.4,29706000.0,Operational,12377500.0
+DC0217,Indus DataHub,2022-08-12,2022,United States,North America,Northern Virginia,Edge,No,3.1,23537000.0,Operational,7592580.64516129
+DC0218,Sakura Datacom,2022-08-13,2022,United States,North America,Northern Virginia,Edge,No,5.2,53213000.0,Operational,10233269.23076923
+DC0219,Stratus Hyperscale,2022-08-17,2022,Ireland,Europe,Unknown,Hyperscale,No,137.2,2079274000.0,Operational,15155058.309037901
+DC0220,BlueRidge Colo,2022-08-22,2022,United States,North America,Silicon Valley,Colocation,No,17.3,213221000.0,Operational,12324913.294797687
+DC0221,Indus DataHub,2022-08-26,2022,United States,North America,Northern Virginia,Colocation,No,94.0,1038767000.0,Operational,11050712.765957447
+DC0222,Pacifica Telecom Data,2022-08-27,2022,United States,North America,Dallas,Enterprise,No,12.0,124608000.0,Operational,10384000.0
+DC0223,Helix Cloud,2022-08-30,2022,United States,North America,Northern Virginia,Hyperscale,No,72.5,564691000.0,Operational,7788841.379310345
+DC0224,Stratus Hyperscale,2022-09-01,2022,Germany,Europe,Frankfurt,AI Training Campus,Yes,131.9,5279180000.0,Operational,40024109.17361637
+DC0225,Sakura Datacom,2022-09-07,2022,United States,North America,Northern Virginia,Edge,No,3.6,47408000.0,Operational,13168888.888888888
+DC0226,Gulfstream Digital,2022-09-09,2022,China,Asia Pacific,Beijing,Colocation,No,26.6,209298000.0,Operational,7868345.8646616535
+DC0227,Meridian DC,2022-09-10,2022,Netherlands,Europe,Unknown,Colocation,No,21.2,230171000.0,Operational,10857122.641509434
+DC0228,Gulfstream Digital,2022-10-18,2022,United States,North America,Northern Virginia,Colocation,No,25.3,159919000.0,Operational,6320909.090909091
+DC0229,Indus DataHub,2022-10-30,2022,United States,North America,Dallas,Colocation,No,34.6,377619000.0,Operational,10913843.930635838
+DC0230,Atlas Digital Infra,2022-11-13,2022,South Africa,Middle East & Africa,Johannesburg,Edge,No,2.1,23450000.0,Operational,11166666.666666666
+DC0231,Stratus Hyperscale,2022-11-19,2022,United States,North America,Northern Virginia,Hyperscale,No,37.2,386699000.0,Operational,10395134.40860215
+DC0232,Sakura Datacom,2022-12-05,2022,Ireland,Europe,Dublin,Edge,No,2.7,42884000.0,Cancelled,15882962.962962963
+DC0233,BlueRidge Colo,2022-12-06,2022,United States,North America,Columbus,Colocation,No,45.1,373484000.0,Operational,8281241.685144124
+DC0234,Atlas Digital Infra,2022-12-09,2022,Japan,Asia Pacific,Tokyo,Colocation,No,35.4,401103000.0,Operational,11330593.220338983
+DC0235,Helix Cloud,2022-12-19,2022,United States,North America,Unknown,Hyperscale,No,112.6,1476560000.0,Operational,13113321.492007105
+DC0236,Indus DataHub,2022-12-21,2022,Ireland,Europe,Dublin,Colocation,No,12.9,100564000.0,Cancelled,7795658.914728682
+DC0237,NimbusCloud,2023-01-05,2023,Germany,Europe,Frankfurt,AI Inference Cluster,Yes,27.4,557723000.0,Under Construction,20354854.01459854
+DC0238,Stratus Hyperscale,2023-01-14,2023,Malaysia,Asia Pacific,Johor,Hyperscale,No,89.1,996184000.0,Operational,11180516.273849608
+DC0239,Zenith Compute,2023-01-16,2023,Brazil,Latin America,Sao Paulo,AI Training Campus,Yes,61.8,1732999000.0,Operational,28042055.01618123
+DC0240,Orbitron Data,2023-01-17,2023,Brazil,Latin America,Sao Paulo,AI Training Campus,Yes,109.8,3147059000.0,Operational,28661739.52641166
+DC0241,Kestrel Enterprise IT,2023-01-18,2023,United Kingdom,Europe,London,Enterprise,No,5.9,59572000.0,Operational,10096949.152542373
+DC0242,Atlas Digital Infra,2023-01-19,2023,United Kingdom,Europe,London,Colocation,No,19.2,215372000.0,Operational,11217291.666666668
+DC0243,Atlas Digital Infra,2023-01-26,2023,Saudi Arabia,Middle East & Africa,Riyadh,Colocation,No,11.9,88435000.0,Operational,7431512.605042016
+DC0244,Polaris Cloud,2023-02-09,2023,United States,North America,Silicon Valley,AI Inference Cluster,Yes,20.1,604536000.0,Operational,30076417.910447758
+DC0245,NimbusCloud,2023-02-09,2023,India,Asia Pacific,Mumbai,AI Inference Cluster,Yes,19.9,334989000.0,Operational,16833618.09045226
+DC0246,Helix Cloud,2023-02-11,2023,Germany,Europe,Frankfurt,Hyperscale,No,41.0,478878000.0,Operational,11679951.219512194
+DC0247,Meridian DC,2023-02-25,2023,United States,North America,Columbus,Colocation,No,26.5,314274000.0,Operational,11859396.226415094
+DC0248,Quanta Racks,2023-03-01,2023,United States,North America,Dallas,AI Inference Cluster,Yes,26.0,632786000.0,Operational,24337923.076923076
+DC0249,Stratus Hyperscale,2023-03-06,2023,India,Asia Pacific,Mumbai,AI Inference Cluster,Yes,15.2,266662000.0,Operational,17543552.63157895
+DC0250,BlueRidge Colo,2023-03-08,2023,United States,North America,Silicon Valley,Edge,No,2.1,38457000.0,Cancelled,18312857.14285714
+DC0251,Ironwood Data,2023-03-13,2023,Netherlands,Europe,Amsterdam,Colocation,No,22.4,289645000.0,Operational,12930580.357142858
+DC0252,Andes Cloud,2023-03-15,2023,United Arab Emirates,Middle East & Africa,Dubai,Hyperscale,No,84.3,910962000.0,Operational,10806192.170818506
+DC0253,Andes Cloud,2023-03-17,2023,China,Asia Pacific,Beijing,Hyperscale,No,40.5,204057000.0,Operational,5038444.444444444
+DC0254,Andes Cloud,2023-03-18,2023,South Korea,Asia Pacific,Seoul,Hyperscale,No,21.0,216383000.0,Operational,10303952.38095238
+DC0255,Stratus Hyperscale,2023-03-18,2023,United States,North America,Columbus,Hyperscale,No,34.1,153035000.0,Operational,4487829.9120234605
+DC0256,Rhine Compute,2023-03-20,2023,Netherlands,Europe,Amsterdam,AI Inference Cluster,Yes,66.2,1581499000.0,Operational,23889712.990936555
+DC0257,NimbusCloud,2023-03-25,2023,United States,North America,Phoenix,Hyperscale,No,92.3,1025393000.0,Operational,11109349.94582882
+DC0258,NimbusCloud,2023-04-08,2023,Sweden,Europe,Stockholm,AI Training Campus,Yes,169.1,5046653000.0,Operational,29844192.78533412
+DC0259,Rhine Compute,2023-04-09,2023,Australia,Asia Pacific,Sydney,AI Inference Cluster,Yes,31.5,742771000.0,Operational,23580031.746031746
+DC0260,BlueRidge Colo,2023-04-12,2023,Singapore,Asia Pacific,Singapore,Colocation,No,48.0,730044000.0,Operational,15209250.0
+DC0261,Ironwood Data,2023-04-12,2023,United States,North America,Dallas,Colocation,No,43.1,484637000.0,Operational,11244477.958236659
+DC0262,Helix Cloud,2023-04-13,2023,Mexico,Latin America,Queretaro,AI Training Campus,Yes,41.8,897229000.0,Operational,21464808.61244019
+DC0263,Quanta Racks,2023-04-15,2023,China,Asia Pacific,Beijing,AI Training Campus,Yes,42.6,918785000.0,Operational,21567723.004694834
+DC0264,Stratus Hyperscale,2023-04-17,2023,China,Asia Pacific,Beijing,Hyperscale,No,38.2,484966000.0,Operational,12695445.02617801
+DC0265,Vertex AI Compute,2023-04-19,2023,China,Asia Pacific,Shanghai,AI Inference Cluster,Yes,46.6,895831000.0,Operational,19223841.201716736
+DC0266,Helix Cloud,2023-04-24,2023,United States,North America,Atlanta,Hyperscale,No,40.6,339389000.0,Operational,8359334.975369458
+DC0267,Stratus Hyperscale,2023-04-26,2023,United States,North America,Northern Virginia,AI Training Campus,Yes,42.6,846067000.0,Operational,19860727.699530516
+DC0268,Orbitron Data,2023-04-27,2023,Sweden,Europe,Stockholm,Hyperscale,No,80.3,1285343000.0,Operational,16006762.141967623
+DC0269,Kestrel Enterprise IT,2023-04-28,2023,Australia,Asia Pacific,Sydney,Enterprise,No,8.4,61560000.0,Operational,7328571.428571428
+DC0270,Kestrel Enterprise IT,2023-05-05,2023,Germany,Europe,Frankfurt,Enterprise,No,11.5,123228000.0,Operational,10715478.260869564
+DC0271,Stratus Hyperscale,2023-05-08,2023,Japan,Asia Pacific,Tokyo,AI Training Campus,Yes,85.1,1923513000.0,Operational,22602972.972972974
+DC0272,Helix Cloud,2023-05-14,2023,China,Asia Pacific,Shanghai,AI Training Campus,Yes,136.1,3322058000.0,Operational,24408949.301983837
+DC0273,Atlas Digital Infra,2023-05-14,2023,Mexico,Latin America,Queretaro,Colocation,No,14.8,147919000.0,Operational,9994527.027027026
+DC0274,Helix Cloud,2023-05-14,2023,Saudi Arabia,Middle East & Africa,Riyadh,Hyperscale,No,87.6,863958000.0,Operational,9862534.246575342
+DC0275,Sakura Datacom,2023-05-28,2023,Brazil,Latin America,Sao Paulo,Edge,No,1.3,14371000.0,Operational,11054615.384615384
+DC0276,Helix Cloud,2023-06-01,2023,Sweden,Europe,Stockholm,Hyperscale,No,32.2,303379000.0,Operational,9421708.074534161
+DC0277,BlueRidge Colo,2023-06-04,2023,Australia,Asia Pacific,Sydney,Colocation,No,40.0,573873000.0,Operational,14346825.0
+DC0278,Stratus Hyperscale,2023-06-04,2023,United States,North America,Atlanta,Hyperscale,No,116.2,1379839000.0,Operational,11874690.189328743
+DC0279,Atlas Digital Infra,2023-06-07,2023,United States,North America,Northern Virginia,Colocation,No,33.5,254841000.0,Operational,7607194.0298507465
+DC0280,NimbusCloud,2023-06-09,2023,South Africa,Middle East & Africa,Johannesburg,AI Inference Cluster,Yes,24.9,439857000.0,Operational,17664939.759036146
+DC0281,Andes Cloud,2023-06-11,2023,Sweden,Europe,Stockholm,Hyperscale,No,122.3,1873574000.0,Operational,15319493.049877351
+DC0282,Pacifica Telecom Data,2023-06-16,2023,United Kingdom,Europe,London,Enterprise,No,5.8,68908000.0,Operational,11880689.655172415
+DC0283,Vertex AI Compute,2023-06-18,2023,United Arab Emirates,Middle East & Africa,Dubai,AI Training Campus,Yes,156.4,4307244000.0,Operational,27539923.27365729
+DC0284,Rhine Compute,2023-06-22,2023,Saudi Arabia,Middle East & Africa,Riyadh,AI Inference Cluster,Yes,15.9,205954000.0,Operational,12953081.761006288
+DC0285,Gulfstream Digital,2023-06-24,2023,Australia,Asia Pacific,Sydney,Edge,No,2.5,41045000.0,Operational,16418000.0
+DC0286,Cedar Edge Networks,2023-07-01,2023,India,Asia Pacific,Mumbai,Edge,No,2.7,32433000.0,Operational,12012222.222222222
+DC0287,Orbitron Data,2023-07-02,2023,United States,North America,Dallas,Hyperscale,No,22.4,295681000.0,Operational,13200044.642857144
+DC0288,BlueRidge Colo,2023-07-02,2023,Ireland,Europe,Dublin,Colocation,No,21.3,191079000.0,Operational,8970845.070422536
+DC0289,Stratus Hyperscale,2023-07-03,2023,India,Asia Pacific,Mumbai,Hyperscale,No,51.8,451543000.0,Operational,8717046.332046332
+DC0290,Gulfstream Digital,2023-07-05,2023,Malaysia,Asia Pacific,Johor,Colocation,No,23.8,208253000.0,Under Construction,8750126.050420167
+DC0291,Sakura Datacom,2023-07-05,2023,United States,North America,Columbus,Colocation,No,70.7,731555000.0,Operational,10347312.588401698
+DC0292,Meridian DC,2023-07-10,2023,Germany,Europe,Frankfurt,Edge,No,4.4,80396000.0,Operational,18271818.18181818
+DC0293,Kestrel Enterprise IT,2023-07-12,2023,United States,North America,Phoenix,Enterprise,No,6.8,51899000.0,Operational,7632205.882352942
+DC0294,Pacifica Telecom Data,2023-07-12,2023,South Korea,Asia Pacific,Seoul,Enterprise,No,5.9,61128000.0,Operational,10360677.966101695
+DC0295,Meridian DC,2023-07-15,2023,China,Asia Pacific,Beijing,Colocation,No,28.6,323693000.0,Operational,11317937.062937062
+DC0296,BlueRidge Colo,2023-07-19,2023,United States,North America,Dallas,Edge,No,3.0,35437000.0,Under Construction,11812333.333333334
+DC0297,Sakura Datacom,2023-07-21,2023,Japan,Asia Pacific,Tokyo,Colocation,No,10.4,103281000.0,Operational,9930865.384615384
+DC0298,Helix Cloud,2023-07-21,2023,Canada,North America,Montreal,Hyperscale,No,46.6,442716000.0,Operational,9500343.347639484
+DC0299,Polaris Cloud,2023-07-24,2023,United States,North America,Columbus,AI Inference Cluster,Yes,57.3,1126010000.0,Operational,19651134.380453754
+DC0300,Kestrel Enterprise IT,2023-07-28,2023,United States,North America,Phoenix,Enterprise,No,15.4,154043000.0,Operational,10002792.207792208
+DC0301,Andes Cloud,2023-08-04,2023,Japan,Asia Pacific,Tokyo,AI Training Campus,Yes,74.1,2448091000.0,Under Construction,33037665.317139003
+DC0302,Andes Cloud,2023-08-07,2023,United States,North America,Northern Virginia,Hyperscale,No,222.2,2467270000.0,Operational,11103825.382538255
+DC0303,Ironwood Data,2023-08-10,2023,United States,North America,Dallas,Colocation,No,20.9,174448000.0,Operational,8346794.2583732065
+DC0304,Atlas Digital Infra,2023-08-11,2023,United States,North America,Northern Virginia,Colocation,No,14.3,162239000.0,Operational,11345384.615384614
+DC0305,Andes Cloud,2023-08-20,2023,Brazil,Latin America,Sao Paulo,AI Training Campus,Yes,55.2,1912767000.0,Under Construction,34651576.08695652
+DC0306,Ironwood Data,2023-08-23,2023,United Arab Emirates,Middle East & Africa,Dubai,Colocation,No,28.5,291755000.0,Operational,10237017.54385965
+DC0307,Orbitron Data,2023-08-25,2023,China,Asia Pacific,Beijing,AI Training Campus,Yes,178.8,4288924000.0,Operational,23987270.693512302
+DC0308,Pacifica Telecom Data,2023-08-27,2023,United States,North America,Silicon Valley,Edge,No,2.8,40267000.0,Operational,14381071.42857143
+DC0309,Stratus Hyperscale,2023-08-27,2023,Mexico,Latin America,Queretaro,Hyperscale,No,186.6,1509657000.0,Operational,8090337.620578778
+DC0310,Helix Cloud,2023-08-28,2023,United States,North America,Dallas,Hyperscale,No,52.7,682955000.0,Operational,12959297.912713472
+DC0311,Ironwood Data,2023-08-30,2023,United States,North America,Silicon Valley,Colocation,No,22.3,260700000.0,Operational,11690582.959641255
+DC0312,Sakura Datacom,2023-09-02,2023,Singapore,Asia Pacific,Singapore,Colocation,No,10.6,116826000.0,Operational,11021320.754716981
+DC0313,Sakura Datacom,2023-09-14,2023,United States,North America,Dallas,Colocation,No,29.3,328076000.0,Operational,11197133.105802048
+DC0314,Gulfstream Digital,2023-09-15,2023,United States,North America,Columbus,Colocation,No,59.0,779170000.0,Operational,13206271.186440678
+DC0315,NimbusCloud,2023-09-22,2023,France,Europe,Paris,Hyperscale,No,132.2,1647587000.0,Operational,12462836.61119516
+DC0316,Andes Cloud,2023-09-22,2023,Australia,Asia Pacific,Sydney,AI Training Campus,Yes,245.0,8533289000.0,Operational,34829751.02040816
+DC0317,Orbitron Data,2023-09-23,2023,Japan,Asia Pacific,Tokyo,Hyperscale,No,60.7,920921000.0,Operational,15171680.395387148
+DC0318,Vertex AI Compute,2023-10-01,2023,India,Asia Pacific,Mumbai,AI Training Campus,Yes,60.8,1086613000.0,Operational,17871924.342105266
+DC0319,Stratus Hyperscale,2023-10-08,2023,India,Asia Pacific,Chennai,AI Training Campus,Yes,41.8,812861000.0,Operational,19446435.406698566
+DC0320,Andes Cloud,2023-10-13,2023,United States,North America,Northern Virginia,AI Inference Cluster,Yes,35.8,946033000.0,Operational,26425502.79329609
+DC0321,Zenith Compute,2023-10-15,2023,United States,North America,Northern Virginia,AI Training Campus,Yes,380.6,7017795000.0,Operational,18438767.735155016
+DC0322,Ironwood Data,2023-10-20,2023,United States,North America,Northern Virginia,Edge,No,3.1,23876000.0,Operational,7701935.483870967
+DC0323,Atlas Digital Infra,2023-10-23,2023,United States,North America,Northern Virginia,Edge,No,3.5,49985000.0,Operational,14281428.57142857
+DC0324,Stratus Hyperscale,2023-10-24,2023,Germany,Europe,Frankfurt,AI Inference Cluster,Yes,34.1,907807000.0,Operational,26621906.15835777
+DC0325,Atlas Digital Infra,2023-10-26,2023,France,Europe,Paris,Edge,No,2.5,26820000.0,Operational,10728000.0
+DC0326,BlueRidge Colo,2023-11-04,2023,Japan,Asia Pacific,Tokyo,Colocation,No,21.0,220933000.0,Operational,10520619.047619049
+DC0327,BlueRidge Colo,2023-11-09,2023,India,Asia Pacific,Mumbai,Edge,No,1.6,21413000.0,Operational,13383125.0
+DC0328,Andes Cloud,2023-11-09,2023,India,Asia Pacific,Hyderabad,Hyperscale,No,45.0,382981000.0,Operational,8510688.888888888
+DC0329,Stratus Hyperscale,2023-11-13,2023,United States,North America,Northern Virginia,Hyperscale,No,152.9,1651377000.0,Operational,10800372.792674951
+DC0330,Andes Cloud,2023-11-15,2023,United States,North America,Northern Virginia,AI Training Campus,Yes,25.9,664411000.0,Operational,25652934.362934366
+DC0331,BlueRidge Colo,2023-11-17,2023,United States,North America,Northern Virginia,Edge,No,3.1,39470000.0,Operational,12732258.064516129
+DC0332,Sakura Datacom,2023-11-17,2023,Germany,Europe,Frankfurt,Edge,No,2.7,39800000.0,Operational,14740740.74074074
+DC0333,Rhine Compute,2023-12-02,2023,Mexico,Latin America,Queretaro,AI Training Campus,Yes,892.1,18492117000.0,Operational,20728749.019168254
+DC0334,BlueRidge Colo,2023-12-02,2023,China,Asia Pacific,Beijing,Edge,No,2.5,29885000.0,Operational,11954000.0
+DC0335,NimbusCloud,2023-12-08,2023,India,Asia Pacific,Mumbai,AI Training Campus,Yes,138.4,2342972000.0,Operational,16928988.439306356
+DC0336,Pacifica Telecom Data,2023-12-11,2023,United Kingdom,Europe,London,Edge,No,1.8,23542000.0,Operational,13078888.888888888
+DC0337,Stratus Hyperscale,2023-12-17,2023,United States,North America,Dallas,Hyperscale,No,93.1,1218568000.0,Operational,13088807.733619764
+DC0338,Zenith Compute,2023-12-19,2023,China,Asia Pacific,Beijing,AI Training Campus,Yes,93.4,1771851000.0,Operational,18970567.451820128
+DC0339,Stratus Hyperscale,2023-12-19,2023,Germany,Europe,Frankfurt,AI Training Campus,Yes,97.7,2944505000.0,Operational,30138229.273285568
+DC0340,Andes Cloud,2023-12-23,2023,Singapore,Asia Pacific,Singapore,Hyperscale,No,144.9,1994935000.0,Operational,13767667.35679779
+DC0341,NimbusCloud,2023-12-24,2023,United States,North America,Silicon Valley,Hyperscale,No,149.5,2275542000.0,Operational,15221016.722408026
+DC0342,Andes Cloud,2023-12-27,2023,United States,North America,Phoenix,Hyperscale,No,30.6,460230000.0,Operational,15040196.078431372
+DC0343,Quanta Racks,2024-01-03,2024,United States,North America,Northern Virginia,AI Training Campus,Yes,73.2,2341256000.0,Operational,31984371.584699452
+DC0344,Atlas Digital Infra,2024-01-09,2024,United States,North America,Columbus,Colocation,No,21.7,312360000.0,Operational,14394470.04608295
+DC0345,NimbusCloud,2024-01-10,2024,China,Asia Pacific,Shanghai,Hyperscale,No,45.1,352289000.0,Operational,7811286.031042129
+DC0346,NimbusCloud,2024-01-12,2024,United Kingdom,Europe,London,AI Inference Cluster,Yes,37.3,767126000.0,Operational,20566380.69705094
+DC0347,Vertex AI Compute,2024-01-13,2024,Canada,North America,Montreal,AI Training Campus,Yes,130.1,3310132000.0,Under Construction,25442982.321291316
+DC0348,Ironwood Data,2024-01-18,2024,Germany,Europe,Frankfurt,Colocation,No,61.5,1189357000.0,Operational,19339138.211382113
+DC0349,Kestrel Enterprise IT,2024-01-19,2024,France,Europe,Paris,Enterprise,No,24.8,302913000.0,Operational,12214233.870967742
+DC0350,Rhine Compute,2024-01-19,2024,China,Asia Pacific,Shanghai,AI Inference Cluster,Yes,17.3,243560000.0,Operational,14078612.716763005
+DC0351,Rhine Compute,2024-01-21,2024,India,Asia Pacific,Unknown,AI Training Campus,Yes,88.4,1960606000.0,Operational,22178800.904977374
+DC0352,Rhine Compute,2024-01-25,2024,India,Asia Pacific,Mumbai,AI Training Campus,Yes,120.9,2529542000.0,Under Construction,20922597.187758476
+DC0353,Sakura Datacom,2024-01-25,2024,United States,North America,Northern Virginia,Colocation,No,31.1,270384000.0,Operational,8694019.2926045
+DC0354,Meridian DC,2024-01-26,2024,Brazil,Latin America,Sao Paulo,Colocation,No,33.5,380098000.0,Operational,11346208.95522388
+DC0355,Andes Cloud,2024-01-30,2024,India,Asia Pacific,Mumbai,AI Inference Cluster,Yes,19.6,295967000.0,Under Construction,15100357.142857142
+DC0356,Meridian DC,2024-01-31,2024,United States,North America,Dallas,Colocation,No,27.5,161030000.0,Operational,5855636.363636363
+DC0357,Stratus Hyperscale,2024-01-31,2024,Malaysia,Asia Pacific,Johor,AI Inference Cluster,Yes,47.8,1149593000.0,Operational,24050062.761506278
+DC0358,Andes Cloud,2024-02-01,2024,India,Asia Pacific,Mumbai,Hyperscale,No,54.5,401808000.0,Cancelled,7372623.853211009
+DC0359,Helix Cloud,2024-02-01,2024,Brazil,Latin America,Sao Paulo,Hyperscale,No,65.7,758991000.0,Under Construction,11552374.429223744
+DC0360,Ironwood Data,2024-02-01,2024,United States,North America,Silicon Valley,Colocation,No,6.3,74022000.0,Under Construction,11749523.80952381
+DC0361,Andes Cloud,2024-02-05,2024,Ireland,Europe,Dublin,AI Inference Cluster,Yes,15.8,307467000.0,Operational,19459936.70886076
+DC0362,Quanta Racks,2024-02-05,2024,France,Europe,Paris,AI Inference Cluster,Yes,64.2,1281007000.0,Cancelled,19953380.062305294
+DC0363,Polaris Cloud,2024-02-07,2024,South Korea,Asia Pacific,Seoul,AI Training Campus,Yes,49.0,1451011000.0,Operational,29612469.387755103
+DC0364,Cedar Edge Networks,2024-02-09,2024,United States,North America,Northern Virginia,Edge,No,2.9,44672000.0,Under Construction,15404137.931034483
+DC0365,Orbitron Data,2024-02-10,2024,United States,North America,Atlanta,Hyperscale,No,64.7,693043000.0,Operational,10711638.33075734
+DC0366,NimbusCloud,2024-02-10,2024,Brazil,Latin America,Sao Paulo,AI Training Campus,Yes,75.0,1336615000.0,Operational,17821533.333333332
+DC0367,Stratus Hyperscale,2024-02-16,2024,India,Asia Pacific,Chennai,AI Training Campus,Yes,89.6,2658350000.0,Operational,29669084.821428575
+DC0368,Rhine Compute,2024-02-17,2024,United States,North America,Northern Virginia,AI Training Campus,Yes,156.0,4771425000.0,Operational,30586057.692307692
+DC0369,Meridian DC,2024-02-18,2024,South Korea,Asia Pacific,Seoul,Edge,No,4.0,20866000.0,Operational,5216500.0
+DC0370,NimbusCloud,2024-02-19,2024,Germany,Europe,Frankfurt,AI Training Campus,Yes,217.7,6694080000.0,Under Construction,30749104.271933857
+DC0371,Ironwood Data,2024-02-19,2024,Australia,Asia Pacific,Sydney,Colocation,No,26.9,306500000.0,Under Construction,11394052.044609666
+DC0372,Orbitron Data,2024-02-20,2024,Germany,Europe,Frankfurt,Hyperscale,No,40.0,449848000.0,Operational,11246200.0
+DC0373,Vertex AI Compute,2024-02-25,2024,United States,North America,Northern Virginia,AI Inference Cluster,Yes,37.8,859255000.0,Under Construction,22731613.756613757
+DC0374,NimbusCloud,2024-02-26,2024,United States,North America,Dallas,Hyperscale,No,91.8,914662000.0,Under Construction,9963638.34422658
+DC0375,Andes Cloud,2024-02-27,2024,Canada,North America,Montreal,Hyperscale,No,58.7,803249000.0,Announced,13683969.33560477
+DC0376,Indus DataHub,2024-03-02,2024,United States,North America,Northern Virginia,Colocation,No,29.1,266700000.0,Operational,9164948.453608247
+DC0377,Atlas Digital Infra,2024-03-05,2024,Germany,Europe,Frankfurt,Colocation,No,24.8,315453000.0,Operational,12719879.032258064
+DC0378,NimbusCloud,2024-03-07,2024,United States,North America,Phoenix,Hyperscale,No,221.8,2411256000.0,Operational,10871307.484220017
+DC0379,Sakura Datacom,2024-03-08,2024,United States,North America,Dallas,Edge,No,3.5,40332000.0,Operational,11523428.57142857
+DC0380,Gulfstream Digital,2024-03-12,2024,Germany,Europe,Frankfurt,Colocation,No,30.7,481784000.0,Under Construction,15693289.902280131
+DC0381,NimbusCloud,2024-03-13,2024,United States,North America,Phoenix,AI Training Campus,Yes,288.4,4252247000.0,Under Construction,14744268.377253816
+DC0382,Stratus Hyperscale,2024-03-13,2024,United States,North America,Phoenix,Hyperscale,No,43.3,466294000.0,Under Construction,10768914.54965358
+DC0383,Helix Cloud,2024-03-14,2024,Ireland,Europe,Dublin,Hyperscale,No,59.2,910955000.0,Operational,15387753.378378378
+DC0384,Quanta Racks,2024-03-15,2024,Germany,Europe,Frankfurt,AI Inference Cluster,Yes,26.5,706067000.0,Under Construction,26644037.735849056
+DC0385,Helix Cloud,2024-03-18,2024,United States,North America,Northern Virginia,AI Inference Cluster,Yes,44.5,989816000.0,Announced,22243056.179775283
+DC0386,Orbitron Data,2024-03-23,2024,Ireland,Europe,Dublin,Hyperscale,No,62.7,1086313000.0,Announced,17325566.188197765
+DC0387,Pacifica Telecom Data,2024-03-27,2024,Germany,Europe,Frankfurt,Edge,No,6.7,78617000.0,Under Construction,11733880.597014925
+DC0388,Helix Cloud,2024-04-01,2024,United States,North America,Northern Virginia,Hyperscale,No,107.0,1635722000.0,Under Construction,15287121.495327102
+DC0389,Orbitron Data,2024-04-05,2024,Netherlands,Europe,Amsterdam,Hyperscale,No,79.1,930106000.0,Operational,11758609.355246523
+DC0390,Rhine Compute,2024-04-10,2024,India,Asia Pacific,Chennai,AI Training Campus,Yes,118.8,1921217000.0,Operational,16171860.26936027
+DC0391,Kestrel Enterprise IT,2024-04-11,2024,United States,North America,Northern Virginia,Enterprise,No,10.4,155264000.0,Under Construction,14929230.769230768
+DC0392,Cedar Edge Networks,2024-04-14,2024,United States,North America,Unknown,Edge,No,2.7,,Announced,
+DC0393,Ironwood Data,2024-04-24,2024,Canada,North America,Montreal,Colocation,No,12.8,108474000.0,Operational,8474531.25
+DC0394,Stratus Hyperscale,2024-05-02,2024,Germany,Europe,Frankfurt,Hyperscale,No,91.5,1130024000.0,Under Construction,12349989.071038252
+DC0395,Andes Cloud,2024-05-02,2024,Mexico,Latin America,Queretaro,AI Training Campus,Yes,90.8,1107515000.0,Cancelled,12197301.762114538
+DC0396,Helix Cloud,2024-05-06,2024,Malaysia,Asia Pacific,Johor,AI Training Campus,Yes,53.2,1371533000.0,Operational,25780695.488721803
+DC0397,Orbitron Data,2024-05-11,2024,Canada,North America,Montreal,Hyperscale,No,95.7,866945000.0,Under Construction,9058986.415882967
+DC0398,Helix Cloud,2024-05-11,2024,China,Asia Pacific,Shanghai,AI Inference Cluster,Yes,45.4,855988000.0,Operational,18854361.233480178
+DC0399,Gulfstream Digital,2024-05-12,2024,Japan,Asia Pacific,Tokyo,Edge,No,5.4,51800000.0,Operational,9592592.592592591
+DC0400,NimbusCloud,2024-05-17,2024,Saudi Arabia,Middle East & Africa,Riyadh,Hyperscale,No,95.7,802446000.0,Under Construction,8385015.673981191
+DC0401,Meridian DC,2024-05-17,2024,China,Asia Pacific,Beijing,Colocation,No,11.2,116398000.0,Operational,10392678.571428573
+DC0402,Stratus Hyperscale,2024-05-17,2024,Brazil,Latin America,Sao Paulo,Hyperscale,No,50.3,540236000.0,Operational,10740278.330019882
+DC0403,Quanta Racks,2024-05-18,2024,United States,North America,Northern Virginia,AI Training Campus,Yes,99.7,2755986000.0,Operational,27642788.365095284
+DC0404,NimbusCloud,2024-05-19,2024,United States,North America,Northern Virginia,AI Training Campus,Yes,82.4,2118947000.0,Under Construction,25715376.21359223
+DC0405,Rhine Compute,2024-05-20,2024,United Arab Emirates,Middle East & Africa,Dubai,AI Training Campus,Yes,48.7,1245629000.0,Under Construction,25577597.53593429
+DC0406,Indus DataHub,2024-05-22,2024,Brazil,Latin America,Sao Paulo,Colocation,No,16.3,148328000.0,Operational,9099877.300613496
+DC0407,Zenith Compute,2024-05-23,2024,Germany,Europe,Frankfurt,AI Inference Cluster,Yes,69.0,1636952000.0,Under Construction,23723942.028985508
+DC0408,Pacifica Telecom Data,2024-05-24,2024,China,Asia Pacific,Beijing,Enterprise,No,10.3,73520000.0,Operational,7137864.077669903
+DC0409,NimbusCloud,2024-05-30,2024,United Kingdom,Europe,London,Hyperscale,No,120.1,2092175000.0,Under Construction,17420274.77102415
+DC0410,Orbitron Data,2024-05-30,2024,United States,North America,Silicon Valley,AI Training Campus,Yes,86.5,2303866000.0,Operational,26634289.01734104
+DC0411,BlueRidge Colo,2024-06-02,2024,United States,North America,Dallas,Colocation,No,103.1,964208000.0,Operational,9352162.9485936
+DC0412,Pacifica Telecom Data,2024-06-04,2024,Ireland,Europe,Dublin,Enterprise,No,9.2,112933000.0,Under Construction,12275326.086956523
+DC0413,Quanta Racks,2024-06-04,2024,United States,North America,Columbus,AI Inference Cluster,Yes,28.4,516739000.0,Operational,18195035.211267605
+DC0414,Pacifica Telecom Data,2024-06-07,2024,Germany,Europe,Frankfurt,Enterprise,No,13.7,151637000.0,Operational,11068394.160583941
+DC0415,Zenith Compute,2024-06-12,2024,United States,North America,Dallas,AI Training Campus,Yes,126.7,4834837000.0,Operational,38159723.75690608
+DC0416,Quanta Racks,2024-06-14,2024,Australia,Asia Pacific,Sydney,AI Inference Cluster,Yes,27.9,808572000.0,Operational,28981075.268817205
+DC0417,NimbusCloud,2024-06-17,2024,China,Asia Pacific,Beijing,Hyperscale,No,154.5,1529815000.0,Operational,9901715.210355988
+DC0418,Vertex AI Compute,2024-06-18,2024,United States,North America,Northern Virginia,AI Training Campus,Yes,52.3,1859566000.0,Under Construction,35555755.2581262
+DC0419,Andes Cloud,2024-06-20,2024,Germany,Europe,Frankfurt,Hyperscale,No,28.8,444171000.0,Operational,15422604.166666666
+DC0420,Vertex AI Compute,2024-06-27,2024,United States,North America,Dallas,AI Inference Cluster,Yes,17.9,344126000.0,Under Construction,19224916.201117318
+DC0421,NimbusCloud,2024-07-02,2024,United Arab Emirates,Middle East & Africa,Dubai,AI Inference Cluster,Yes,20.1,469110000.0,Operational,23338805.970149253
+DC0422,Quanta Racks,2024-07-03,2024,Canada,North America,Montreal,AI Training Campus,Yes,115.5,2695240000.0,Operational,23335411.255411256
+DC0423,Orbitron Data,2024-07-04,2024,United States,North America,Dallas,AI Training Campus,Yes,87.5,2048448000.0,Operational,23410834.285714287
+DC0424,NimbusCloud,2024-07-06,2024,United States,North America,Atlanta,AI Training Campus,Yes,87.1,1956655000.0,Operational,22464466.130884044
+DC0425,Atlas Digital Infra,2024-07-07,2024,China,Asia Pacific,Beijing,Colocation,No,24.3,257880000.0,Operational,10612345.679012345
+DC0426,Meridian DC,2024-07-09,2024,Japan,Asia Pacific,Tokyo,Colocation,No,10.8,124392000.0,Operational,11517777.777777776
+DC0427,Pacifica Telecom Data,2024-07-11,2024,United States,North America,Silicon Valley,Edge,No,3.2,65113000.0,Under Construction,20347812.5
+DC0428,Kestrel Enterprise IT,2024-07-14,2024,United States,North America,Northern Virginia,Enterprise,No,5.3,50491000.0,Under Construction,9526603.773584906
+DC0429,Vertex AI Compute,2024-07-16,2024,United States,North America,Columbus,AI Training Campus,Yes,111.6,3325459000.0,Operational,29798019.71326165
+DC0430,Helix Cloud,2024-07-23,2024,Malaysia,Asia Pacific,Johor,Hyperscale,No,198.9,2078298000.0,Under Construction,10448959.2760181
+DC0431,Atlas Digital Infra,2024-07-27,2024,Saudi Arabia,Middle East & Africa,Riyadh,Colocation,No,8.7,63813000.0,Under Construction,7334827.586206897
+DC0432,Pacifica Telecom Data,2024-07-28,2024,United States,North America,Northern Virginia,Enterprise,No,18.4,261476000.0,Under Construction,14210652.173913045
+DC0433,Helix Cloud,2024-07-28,2024,Ireland,Europe,Dublin,AI Training Campus,Yes,228.6,8924386000.0,Under Construction,39039308.83639545
+DC0434,Pacifica Telecom Data,2024-07-30,2024,Ireland,Europe,Dublin,Enterprise,No,4.9,44330000.0,Operational,9046938.775510203
+DC0435,Rhine Compute,2024-08-01,2024,China,Asia Pacific,Beijing,AI Inference Cluster,Yes,57.9,723435000.0,Operational,12494559.58549223
+DC0436,Rhine Compute,2024-08-07,2024,Netherlands,Europe,Amsterdam,AI Training Campus,Yes,339.5,9762948000.0,Operational,28756842.41531664
+DC0437,NimbusCloud,2024-08-12,2024,India,Asia Pacific,Mumbai,AI Inference Cluster,Yes,43.0,798491000.0,Operational,18569558.139534883
+DC0438,Orbitron Data,2024-08-13,2024,China,Asia Pacific,Shanghai,Hyperscale,No,118.2,1283546000.0,Operational,10859103.214890016
+DC0439,Orbitron Data,2024-08-17,2024,China,Asia Pacific,Shanghai,AI Inference Cluster,Yes,40.8,1008501000.0,Operational,24718161.764705885
+DC0440,Orbitron Data,2024-08-19,2024,China,Asia Pacific,Shanghai,AI Training Campus,Yes,32.0,1238664000.0,Operational,38708250.0
+DC0441,Quanta Racks,2024-08-22,2024,China,Asia Pacific,Beijing,AI Training Campus,Yes,240.8,4497552000.0,Operational,18677541.5282392
+DC0442,Andes Cloud,2024-08-27,2024,India,Asia Pacific,Chennai,Hyperscale,No,60.0,717316000.0,Operational,11955266.666666666
+DC0443,Indus DataHub,2024-08-31,2024,Japan,Asia Pacific,Tokyo,Edge,No,3.3,20504000.0,Operational,6213333.333333334
+DC0444,Helix Cloud,2024-09-08,2024,United States,North America,Phoenix,AI Training Campus,Yes,163.0,4316301000.0,Under Construction,26480374.233128835
+DC0445,Kestrel Enterprise IT,2024-09-09,2024,China,Asia Pacific,Shanghai,Enterprise,No,9.8,58635000.0,Under Construction,5983163.265306122
+DC0446,Ironwood Data,2024-09-09,2024,Singapore,Asia Pacific,Singapore,Edge,No,1.3,15003000.0,Operational,11540769.23076923
+DC0447,Zenith Compute,2024-09-10,2024,United States,North America,Northern Virginia,AI Training Campus,Yes,131.4,3482452000.0,Under Construction,26502678.843226787
+DC0448,Kestrel Enterprise IT,2024-09-15,2024,United States,North America,Phoenix,Enterprise,No,10.4,83754000.0,Under Construction,8053269.23076923
+DC0449,Rhine Compute,2024-09-15,2024,China,Asia Pacific,Beijing,AI Training Campus,Yes,245.3,4566779000.0,Operational,18617117.814920504
+DC0450,Zenith Compute,2024-09-16,2024,United Kingdom,Europe,London,AI Training Campus,Yes,155.4,4363738000.0,Announced,28080682.11068211
+DC0451,Indus DataHub,2024-09-20,2024,United States,North America,Silicon Valley,Edge,No,3.3,35152000.0,Under Construction,10652121.212121213
+DC0452,Pacifica Telecom Data,2024-09-25,2024,South Korea,Asia Pacific,Seoul,Edge,No,7.1,98039000.0,Under Construction,13808309.85915493
+DC0453,Kestrel Enterprise IT,2024-09-30,2024,Netherlands,Europe,Amsterdam,Enterprise,No,16.8,150851000.0,Under Construction,8979226.19047619
+DC0454,Orbitron Data,2024-10-02,2024,China,Asia Pacific,Beijing,AI Inference Cluster,Yes,25.2,329290000.0,Under Construction,13067063.492063493
+DC0455,Andes Cloud,2024-10-04,2024,Mexico,Latin America,Queretaro,AI Training Campus,Yes,116.7,,Under Construction,
+DC0456,Orbitron Data,2024-10-04,2024,Mexico,Latin America,Queretaro,AI Inference Cluster,Yes,57.6,1277535000.0,Under Construction,22179427.083333332
+DC0457,Sakura Datacom,2024-10-06,2024,United States,North America,Dallas,Edge,No,3.5,34996000.0,Announced,9998857.142857144
+DC0458,Helix Cloud,2024-10-08,2024,United States,North America,Dallas,AI Inference Cluster,Yes,49.1,923011000.0,Operational,18798594.704684317
+DC0459,Quanta Racks,2024-10-09,2024,Mexico,Latin America,Queretaro,AI Inference Cluster,Yes,35.4,536902000.0,Under Construction,15166723.163841808
+DC0460,Helix Cloud,2024-10-17,2024,South Korea,Asia Pacific,Seoul,AI Inference Cluster,Yes,36.6,621628000.0,Under Construction,16984371.584699452
+DC0461,Gulfstream Digital,2024-10-20,2024,United Kingdom,Europe,London,Colocation,No,66.9,977019000.0,Operational,14604170.403587442
+DC0462,Quanta Racks,2024-10-24,2024,Japan,Asia Pacific,Tokyo,AI Training Campus,Yes,113.2,3081285000.0,Operational,27219832.155477032
+DC0463,Atlas Digital Infra,2024-10-29,2024,United States,North America,Northern Virginia,Colocation,No,61.5,951971000.0,Under Construction,15479203.25203252
+DC0464,Orbitron Data,2024-11-01,2024,South Korea,Asia Pacific,Seoul,AI Inference Cluster,Yes,12.1,208842000.0,Under Construction,17259669.421487603
+DC0465,Kestrel Enterprise IT,2024-11-02,2024,South Korea,Asia Pacific,Seoul,Enterprise,No,7.8,112481000.0,Operational,14420641.025641026
+DC0466,Stratus Hyperscale,2024-11-03,2024,Netherlands,Europe,Amsterdam,AI Inference Cluster,Yes,24.6,666914000.0,Under Construction,27110325.203252032
+DC0467,Ironwood Data,2024-11-05,2024,India,Asia Pacific,Hyderabad,Colocation,No,45.6,446785000.0,Operational,9797916.666666666
+DC0468,Kestrel Enterprise IT,2024-11-05,2024,United States,North America,Northern Virginia,Enterprise,No,9.1,64856000.0,Operational,7127032.967032967
+DC0469,Kestrel Enterprise IT,2024-11-06,2024,United States,North America,Silicon Valley,Enterprise,No,14.1,204462000.0,Under Construction,14500851.063829787
+DC0470,Stratus Hyperscale,2024-11-16,2024,South Africa,Middle East & Africa,Johannesburg,AI Inference Cluster,Yes,16.1,277363000.0,Under Construction,17227515.52795031
+DC0471,NimbusCloud,2024-11-17,2024,Ireland,Europe,Dublin,AI Training Campus,Yes,76.0,2268665000.0,Under Construction,29850855.263157893
+DC0472,Helix Cloud,2024-11-18,2024,Malaysia,Asia Pacific,Johor,AI Training Campus,Yes,44.3,831550000.0,Cancelled,18770880.361173816
+DC0473,Ironwood Data,2024-11-19,2024,Brazil,Latin America,Sao Paulo,Colocation,No,54.7,711539000.0,Announced,13008025.594149908
+DC0474,Indus DataHub,2024-11-21,2024,India,Asia Pacific,Hyderabad,Colocation,No,19.2,126278000.0,Cancelled,6576979.166666667
+DC0475,Sakura Datacom,2024-11-25,2024,United Kingdom,Europe,London,Colocation,No,27.1,313384000.0,Under Construction,11563985.239852399
+DC0476,Polaris Cloud,2024-11-28,2024,United States,North America,Dallas,AI Training Campus,Yes,120.4,3230885000.0,Under Construction,26834593.023255814
+DC0477,Rhine Compute,2024-11-30,2024,Japan,Asia Pacific,Tokyo,AI Inference Cluster,Yes,27.2,487176000.0,Under Construction,17910882.352941178
+DC0478,NimbusCloud,2024-12-01,2024,United States,North America,Dallas,AI Training Campus,Yes,97.8,2174355000.0,Cancelled,22232668.711656444
+DC0479,Stratus Hyperscale,2024-12-03,2024,United States,North America,Phoenix,AI Inference Cluster,Yes,35.3,798866000.0,Cancelled,22630764.872521248
+DC0480,NimbusCloud,2024-12-05,2024,Mexico,Latin America,Queretaro,AI Training Campus,Yes,290.8,5595168000.0,Under Construction,19240605.226960108
+DC0481,Sakura Datacom,2024-12-08,2024,Australia,Asia Pacific,Sydney,Colocation,No,15.4,172912000.0,Under Construction,11228051.948051948
+DC0482,Rhine Compute,2024-12-08,2024,United States,North America,Silicon Valley,AI Training Campus,Yes,84.0,2474309000.0,Under Construction,29456059.523809522
+DC0483,Stratus Hyperscale,2024-12-13,2024,United States,North America,Northern Virginia,AI Inference Cluster,Yes,17.3,447862000.0,Announced,25887976.878612716
+DC0484,BlueRidge Colo,2024-12-21,2024,China,Asia Pacific,Beijing,Colocation,No,7.5,62269000.0,Operational,8302533.333333333
+DC0485,Orbitron Data,2024-12-22,2024,Saudi Arabia,Middle East & Africa,Riyadh,AI Training Campus,Yes,79.4,2456212000.0,Under Construction,30934659.949622165
+DC0486,Ironwood Data,2024-12-28,2024,Sweden,Europe,Stockholm,Colocation,No,17.9,176915000.0,Operational,9883519.553072626
+DC0487,Orbitron Data,2024-12-28,2024,United States,North America,Northern Virginia,AI Inference Cluster,Yes,27.1,472044000.0,Cancelled,17418597.78597786
+DC0488,Rhine Compute,2024-12-30,2024,South Africa,Middle East & Africa,Johannesburg,AI Inference Cluster,Yes,75.4,1373851000.0,Operational,18220835.543766577
+DC0489,Zenith Compute,2025-01-08,2025,United States,North America,Dallas,AI Training Campus,Yes,224.6,7505093000.0,Under Construction,33415373.998219058
+DC0490,Andes Cloud,2025-01-14,2025,South Africa,Middle East & Africa,Johannesburg,AI Training Campus,Yes,122.4,3675575000.0,Operational,30029207.51633987
+DC0491,Orbitron Data,2025-01-16,2025,France,Europe,Paris,AI Training Campus,Yes,151.4,5331896000.0,Announced,35217278.73183619
+DC0492,NimbusCloud,2025-01-16,2025,Brazil,Latin America,Sao Paulo,AI Training Campus,Yes,165.3,4642819000.0,Under Construction,28087229.28009679
+DC0493,Zenith Compute,2025-01-19,2025,Singapore,Asia Pacific,Singapore,AI Training Campus,Yes,106.3,4016107000.0,Under Construction,37780874.882408276
+DC0494,Zenith Compute,2025-01-19,2025,United Arab Emirates,Middle East & Africa,Dubai,AI Training Campus,Yes,125.0,4504483000.0,Announced,36035864.0
+DC0495,Zenith Compute,2025-01-20,2025,United States,North America,Phoenix,AI Training Campus,Yes,75.1,2765224000.0,Under Construction,36820559.254327565
+DC0496,Helix Cloud,2025-01-21,2025,United States,North America,Northern Virginia,AI Training Campus,Yes,66.1,2131025000.0,Operational,32239409.98487141
+DC0497,Orbitron Data,2025-01-26,2025,India,Asia Pacific,Mumbai,AI Inference Cluster,Yes,135.7,2627308000.0,Under Construction,19361149.59469418
+DC0498,NimbusCloud,2025-01-28,2025,Saudi Arabia,Middle East & Africa,Riyadh,AI Inference Cluster,Yes,12.4,302279000.0,Under Construction,24377338.709677417
+DC0499,NimbusCloud,2025-01-28,2025,United States,North America,Northern Virginia,Hyperscale,No,99.7,,Under Construction,
+DC0500,Indus DataHub,2025-02-02,2025,United Arab Emirates,Middle East & Africa,Dubai,Edge,No,3.5,46845000.0,Under Construction,13384285.714285715
+DC0501,Ironwood Data,2025-02-04,2025,United States,North America,Atlanta,Colocation,No,17.1,144821000.0,Under Construction,8469064.327485379
+DC0502,Rhine Compute,2025-02-04,2025,United States,North America,Columbus,AI Training Campus,Yes,182.6,4954640000.0,Operational,27133844.468784228
+DC0503,Ironwood Data,2025-02-04,2025,United Arab Emirates,Middle East & Africa,Dubai,Colocation,No,60.1,726450000.0,Announced,12087354.409317803
+DC0504,Zenith Compute,2025-02-05,2025,United States,North America,Phoenix,AI Training Campus,Yes,44.2,1097917000.0,Operational,24839751.13122172
+DC0505,Stratus Hyperscale,2025-02-07,2025,United States,North America,Northern Virginia,Hyperscale,No,80.3,968828000.0,Under Construction,12065105.853051059
+DC0506,Andes Cloud,2025-02-07,2025,Sweden,Europe,Stockholm,AI Training Campus,Yes,64.7,2272139000.0,Under Construction,35118068.00618238
+DC0507,Sakura Datacom,2025-02-09,2025,Brazil,Latin America,Sao Paulo,Colocation,No,19.3,202442000.0,Under Construction,10489222.797927462
+DC0508,Stratus Hyperscale,2025-02-12,2025,Singapore,Asia Pacific,Singapore,Hyperscale,No,46.5,846133000.0,Under Construction,18196408.602150537
+DC0509,Quanta Racks,2025-02-12,2025,Mexico,Latin America,Queretaro,AI Inference Cluster,Yes,13.2,220716000.0,Under Construction,16720909.090909092
+DC0510,Orbitron Data,2025-02-17,2025,South Africa,Middle East & Africa,Johannesburg,AI Training Campus,Yes,106.0,3064339000.0,Operational,28908858.490566038
+DC0511,Stratus Hyperscale,2025-02-18,2025,Japan,Asia Pacific,Tokyo,Hyperscale,No,21.2,362070000.0,Under Construction,17078773.58490566
+DC0512,Andes Cloud,2025-02-19,2025,United States,North America,Dallas,AI Inference Cluster,Yes,13.7,257429000.0,Cancelled,18790437.95620438
+DC0513,Vertex AI Compute,2025-02-20,2025,India,Asia Pacific,Chennai,AI Inference Cluster,Yes,18.7,317122000.0,Under Construction,16958395.721925136
+DC0514,NimbusCloud,2025-02-20,2025,Netherlands,Europe,Amsterdam,AI Inference Cluster,Yes,67.8,1973347000.0,Announced,29105412.979351033
+DC0515,Polaris Cloud,2025-02-20,2025,United States,North America,Silicon Valley,AI Inference Cluster,Yes,68.0,3004526000.0,Under Construction,44184205.88235294
+DC0516,NimbusCloud,2025-02-22,2025,Netherlands,Europe,Amsterdam,Hyperscale,No,94.4,947040000.0,Announced,10032203.389830507
+DC0517,Andes Cloud,2025-02-22,2025,Germany,Europe,Frankfurt,AI Training Campus,Yes,168.8,5030945000.0,Under Construction,29804176.540284358
+DC0518,Rhine Compute,2025-02-24,2025,Netherlands,Europe,Amsterdam,AI Inference Cluster,Yes,33.8,479047000.0,Operational,14172988.165680474
+DC0519,Gulfstream Digital,2025-02-24,2025,Germany,Europe,Frankfurt,Edge,No,2.3,24660000.0,Under Construction,10721739.130434783
+DC0520,Andes Cloud,2025-02-25,2025,Mexico,Latin America,Queretaro,Hyperscale,No,47.0,517456000.0,Under Construction,11009702.127659574
+DC0521,BlueRidge Colo,2025-03-01,2025,United States,North America,Northern Virginia,Colocation,No,39.5,531396000.0,Under Construction,13453063.291139241
+DC0522,Andes Cloud,2025-03-02,2025,United Kingdom,Europe,London,AI Inference Cluster,Yes,13.0,267171000.0,Operational,20551615.384615384
+DC0523,Polaris Cloud,2025-03-09,2025,United Kingdom,Europe,London,AI Inference Cluster,Yes,47.8,1577529000.0,Announced,33002698.744769875
+DC0524,Vertex AI Compute,2025-03-11,2025,Ireland,Europe,Dublin,AI Training Campus,Yes,149.4,5638639000.0,Cancelled,37741894.24364123
+DC0525,NimbusCloud,2025-03-13,2025,India,Asia Pacific,Mumbai,AI Inference Cluster,Yes,18.4,297914000.0,Operational,16190978.260869566
+DC0526,Orbitron Data,2025-03-13,2025,Mexico,Latin America,Queretaro,AI Training Campus,Yes,88.1,2558001000.0,Cancelled,29035198.637911465
+DC0527,Pacifica Telecom Data,2025-03-16,2025,China,Asia Pacific,Shanghai,Enterprise,No,26.5,307473000.0,Announced,11602754.716981132
+DC0528,Vertex AI Compute,2025-03-16,2025,Ireland,Europe,Dublin,AI Inference Cluster,Yes,25.3,596335000.0,Under Construction,23570553.359683793
+DC0529,Andes Cloud,2025-03-22,2025,United Kingdom,Europe,London,Hyperscale,No,58.1,1047328000.0,Announced,18026299.48364888
+DC0530,Stratus Hyperscale,2025-03-24,2025,United States,North America,Silicon Valley,AI Inference Cluster,Yes,20.6,611201000.0,Operational,29669951.45631068
+DC0531,Quanta Racks,2025-03-26,2025,United States,North America,Northern Virginia,AI Inference Cluster,Yes,22.4,395835000.0,Announced,17671205.35714286
+DC0532,Gulfstream Digital,2025-03-26,2025,Germany,Europe,Frankfurt,Edge,No,2.2,22399000.0,Under Construction,10181363.636363635
+DC0533,NimbusCloud,2025-03-29,2025,China,Asia Pacific,Beijing,Hyperscale,No,131.6,1319634000.0,Announced,10027613.981762918
+DC0534,Orbitron Data,2025-03-29,2025,United States,North America,Northern Virginia,Hyperscale,No,139.1,1504316000.0,Announced,10814636.951833215
+DC0535,Quanta Racks,2025-04-06,2025,United Kingdom,Europe,London,AI Training Campus,Yes,86.1,2476425000.0,Under Construction,28762195.121951222
+DC0536,Orbitron Data,2025-04-07,2025,Singapore,Asia Pacific,Singapore,AI Inference Cluster,Yes,34.9,953070000.0,Under Construction,27308595.988538682
+DC0537,Andes Cloud,2025-04-07,2025,India,Asia Pacific,Hyderabad,AI Inference Cluster,Yes,79.7,1160280000.0,Under Construction,14558092.848180678
+DC0538,NimbusCloud,2025-04-08,2025,United States,North America,Silicon Valley,AI Inference Cluster,Yes,13.6,307663000.0,Under Construction,22622279.411764707
+DC0539,Sakura Datacom,2025-04-11,2025,United Kingdom,Europe,London,Colocation,No,30.2,346841000.0,Announced,11484801.324503312
+DC0540,Helix Cloud,2025-04-12,2025,Singapore,Asia Pacific,Singapore,AI Inference Cluster,Yes,53.0,537720000.0,Announced,10145660.37735849
+DC0541,Vertex AI Compute,2025-04-14,2025,Saudi Arabia,Middle East & Africa,Riyadh,AI Inference Cluster,Yes,25.3,590128000.0,Cancelled,23325217.391304348
+DC0542,BlueRidge Colo,2025-04-16,2025,Brazil,Latin America,Sao Paulo,Colocation,No,20.2,189266000.0,Cancelled,9369603.96039604
+DC0543,Orbitron Data,2025-04-16,2025,South Africa,Middle East & Africa,Johannesburg,Hyperscale,No,64.0,723614000.0,Operational,11306468.75
+DC0544,Atlas Digital Infra,2025-04-18,2025,United States,North America,Atlanta,Colocation,No,34.1,310739000.0,Operational,9112580.64516129
+DC0545,Ironwood Data,2025-04-23,2025,United States,North America,Phoenix,Colocation,No,38.5,282820000.0,Announced,7345974.025974026
+DC0546,BlueRidge Colo,2025-04-24,2025,China,Asia Pacific,Beijing,Colocation,No,10.6,68589000.0,Operational,6470660.377358491
+DC0547,Andes Cloud,2025-04-24,2025,China,Asia Pacific,Shanghai,AI Inference Cluster,Yes,36.3,890377000.0,Under Construction,24528292.011019286
+DC0548,Vertex AI Compute,2025-04-27,2025,China,Asia Pacific,Beijing,AI Inference Cluster,Yes,14.9,235232000.0,Under Construction,15787382.55033557
+DC0549,Quanta Racks,2025-05-02,2025,United States,North America,Dallas,AI Training Campus,Yes,97.7,1859758000.0,Under Construction,19035394.063459568
+DC0550,Rhine Compute,2025-05-02,2025,Ireland,Europe,Dublin,AI Training Campus,Yes,164.1,3528503000.0,Under Construction,21502151.127361365
+DC0551,Orbitron Data,2025-05-03,2025,France,Europe,Paris,AI Training Campus,Yes,144.1,3494742000.0,Operational,24252199.861207496
+DC0552,NimbusCloud,2025-05-04,2025,Germany,Europe,Frankfurt,AI Inference Cluster,Yes,27.5,827563000.0,Announced,30093200.0
+DC0553,Vertex AI Compute,2025-05-07,2025,United States,North America,Northern Virginia,AI Inference Cluster,Yes,22.7,583203000.0,Announced,25691762.114537444
+DC0554,Orbitron Data,2025-05-11,2025,United States,North America,Columbus,AI Training Campus,Yes,135.2,2917408000.0,Under Construction,21578461.53846154
+DC0555,Pacifica Telecom Data,2025-05-11,2025,United States,North America,Northern Virginia,Enterprise,No,8.9,,Announced,
+DC0556,BlueRidge Colo,2025-05-16,2025,United States,North America,Phoenix,Colocation,No,61.6,939054000.0,Under Construction,15244383.116883116
+DC0557,Polaris Cloud,2025-05-16,2025,United States,North America,Northern Virginia,AI Inference Cluster,Yes,21.0,330522000.0,Under Construction,15739142.857142856
+DC0558,Andes Cloud,2025-05-19,2025,Japan,Asia Pacific,Tokyo,AI Training Campus,Yes,176.7,6235469000.0,Announced,35288449.3491794
+DC0559,Vertex AI Compute,2025-05-22,2025,Ireland,Europe,Dublin,AI Inference Cluster,Yes,41.7,847631000.0,Under Construction,20326882.494004793
+DC0560,Polaris Cloud,2025-05-25,2025,United States,North America,Columbus,AI Training Campus,Yes,62.4,2011631000.0,Under Construction,32237676.282051284
+DC0561,Stratus Hyperscale,2025-05-25,2025,United States,North America,Atlanta,Hyperscale,No,43.5,602932000.0,Under Construction,13860505.747126436
+DC0562,Quanta Racks,2025-05-28,2025,Ireland,Europe,Dublin,AI Inference Cluster,Yes,32.6,843110000.0,Under Construction,25862269.938650306
+DC0563,Polaris Cloud,2025-06-03,2025,Japan,Asia Pacific,Tokyo,AI Inference Cluster,Yes,37.5,1352836000.0,Operational,36075626.666666664
+DC0564,NimbusCloud,2025-06-03,2025,United States,North America,Phoenix,AI Inference Cluster,Yes,38.1,818557000.0,Under Construction,21484435.695538055
+DC0565,Quanta Racks,2025-06-07,2025,India,Asia Pacific,Hyderabad,AI Inference Cluster,Yes,26.6,411763000.0,Under Construction,15479812.030075187
+DC0566,Stratus Hyperscale,2025-06-07,2025,France,Europe,Paris,AI Training Campus,Yes,249.2,8197777000.0,Operational,32896376.404494382
+DC0567,Polaris Cloud,2025-06-08,2025,United States,North America,Northern Virginia,AI Training Campus,Yes,185.8,5566033000.0,Under Construction,29957120.559741657
+DC0568,Gulfstream Digital,2025-06-08,2025,China,Asia Pacific,Beijing,Colocation,No,8.3,117356000.0,Under Construction,14139277.108433735
+DC0569,Andes Cloud,2025-06-10,2025,China,Asia Pacific,Beijing,AI Inference Cluster,Yes,11.7,257744000.0,Under Construction,22029401.70940171
+DC0570,Stratus Hyperscale,2025-06-14,2025,India,Asia Pacific,Chennai,AI Training Campus,Yes,67.0,1303411000.0,Announced,19453895.52238806
+DC0571,Pacifica Telecom Data,2025-06-15,2025,India,Asia Pacific,Mumbai,Edge,No,4.7,84438000.0,Under Construction,17965531.914893616
+DC0572,Helix Cloud,2025-06-15,2025,United States,North America,Phoenix,AI Training Campus,Yes,35.7,1058964000.0,Announced,29662857.14285714
+DC0573,Vertex AI Compute,2025-06-17,2025,France,Europe,Paris,AI Training Campus,Yes,215.0,8375289000.0,Under Construction,38954832.55813953
+DC0574,Meridian DC,2025-06-18,2025,United States,North America,Northern Virginia,Colocation,No,17.0,239810000.0,Under Construction,14106470.588235294
+DC0575,BlueRidge Colo,2025-06-20,2025,South Africa,Middle East & Africa,Johannesburg,Colocation,No,9.9,114677000.0,Under Construction,11583535.353535352
+DC0576,Zenith Compute,2025-06-21,2025,Japan,Asia Pacific,Tokyo,AI Inference Cluster,Yes,20.4,512432000.0,Operational,25119215.68627451
+DC0577,Vertex AI Compute,2025-06-22,2025,United States,North America,Northern Virginia,AI Inference Cluster,Yes,67.9,862666000.0,Under Construction,12704948.453608247
+DC0578,Andes Cloud,2025-06-26,2025,United States,North America,Dallas,Hyperscale,No,20.4,217668000.0,Announced,10670000.0
+DC0579,Stratus Hyperscale,2025-06-27,2025,China,Asia Pacific,Beijing,AI Training Campus,Yes,168.2,3770148000.0,Announced,22414673.008323427
+DC0580,Gulfstream Digital,2025-06-28,2025,Brazil,Latin America,Sao Paulo,Colocation,No,12.0,81733000.0,Announced,6811083.333333333
+DC0581,Helix Cloud,2025-06-28,2025,United States,North America,Columbus,AI Inference Cluster,Yes,20.3,402670000.0,Under Construction,19835960.591133006
+DC0582,Andes Cloud,2025-06-29,2025,Ireland,Europe,Dublin,AI Training Campus,Yes,61.4,1819493000.0,Under Construction,29633436.48208469
+DC0583,Stratus Hyperscale,2025-06-29,2025,Singapore,Asia Pacific,Singapore,AI Training Campus,Yes,106.8,3842672000.0,Under Construction,35980074.90636704
+DC0584,Vertex AI Compute,2025-07-01,2025,Japan,Asia Pacific,Tokyo,AI Inference Cluster,Yes,28.9,665380000.0,Operational,23023529.411764707
+DC0585,Vertex AI Compute,2025-07-09,2025,United Kingdom,Europe,London,AI Training Campus,Yes,77.5,2253337000.0,Under Construction,29075316.129032258
+DC0586,Ironwood Data,2025-07-12,2025,Netherlands,Europe,Amsterdam,Colocation,No,18.7,273624000.0,Under Construction,14632299.465240642
+DC0587,Gulfstream Digital,2025-07-14,2025,China,Asia Pacific,Shanghai,Colocation,No,11.0,97549000.0,Under Construction,8868090.909090908
+DC0588,Zenith Compute,2025-07-15,2025,United States,North America,Dallas,AI Inference Cluster,Yes,18.9,293464000.0,Under Construction,15527195.767195769
+DC0589,Helix Cloud,2025-07-16,2025,United States,North America,Dallas,Hyperscale,No,62.7,811256000.0,Announced,12938692.185007975
+DC0590,Orbitron Data,2025-07-24,2025,Japan,Asia Pacific,Tokyo,AI Inference Cluster,Yes,20.7,588399000.0,Under Construction,28425072.463768117
+DC0591,Vertex AI Compute,2025-07-26,2025,Mexico,Latin America,Queretaro,AI Training Campus,Yes,53.4,965761000.0,Announced,18085411.985018726
+DC0592,Ironwood Data,2025-07-26,2025,Japan,Asia Pacific,Tokyo,Colocation,No,52.3,,Under Construction,
+DC0593,Zenith Compute,2025-07-31,2025,United States,North America,Dallas,AI Training Campus,Yes,97.4,2098903000.0,Operational,21549312.11498973
+DC0594,Stratus Hyperscale,2025-08-04,2025,South Korea,Asia Pacific,Seoul,AI Inference Cluster,Yes,37.3,584245000.0,Under Construction,15663404.825737266
+DC0595,Stratus Hyperscale,2025-08-05,2025,United States,North America,Columbus,Hyperscale,No,68.1,801537000.0,Under Construction,11770000.000000002
+DC0596,Cedar Edge Networks,2025-08-08,2025,Singapore,Asia Pacific,Singapore,Edge,No,1.7,38840000.0,Operational,22847058.82352941
+DC0597,Quanta Racks,2025-08-08,2025,United States,North America,Phoenix,AI Training Campus,Yes,358.8,9547754000.0,Under Construction,26610239.68784838
+DC0598,Quanta Racks,2025-08-09,2025,United States,North America,Silicon Valley,AI Training Campus,Yes,54.0,1864852000.0,Announced,34534296.2962963
+DC0599,BlueRidge Colo,2025-08-13,2025,South Africa,Middle East & Africa,Johannesburg,Edge,No,4.9,64239000.0,Operational,13109999.999999998
+DC0600,Zenith Compute,2025-08-14,2025,United States,North America,Dallas,AI Training Campus,Yes,80.1,1818385000.0,Under Construction,22701435.70536829
+DC0601,Orbitron Data,2025-08-16,2025,United States,North America,Dallas,AI Inference Cluster,Yes,19.6,577575000.0,Under Construction,29468112.244897958
+DC0602,NimbusCloud,2025-08-21,2025,Japan,Asia Pacific,Tokyo,Hyperscale,No,31.2,529476000.0,Under Construction,16970384.615384616
+DC0603,Sakura Datacom,2025-08-23,2025,Sweden,Europe,Stockholm,Colocation,No,14.6,202060000.0,Operational,13839726.02739726
+DC0604,NimbusCloud,2025-08-24,2025,United States,North America,Northern Virginia,AI Inference Cluster,Yes,43.5,829191000.0,Under Construction,19061862.068965517
+DC0605,NimbusCloud,2025-08-26,2025,United Arab Emirates,Middle East & Africa,Dubai,AI Inference Cluster,Yes,35.3,1056118000.0,Announced,29918356.94050992
+DC0606,NimbusCloud,2025-08-28,2025,United States,North America,Northern Virginia,AI Training Campus,Yes,64.5,1835535000.0,Operational,28457906.976744186
+DC0607,NimbusCloud,2025-09-08,2025,United States,North America,Dallas,AI Training Campus,Yes,75.5,2182434000.0,Under Construction,28906410.59602649
+DC0608,Zenith Compute,2025-09-11,2025,United States,North America,Northern Virginia,AI Inference Cluster,Yes,14.7,348733000.0,Operational,23723333.333333336
+DC0609,Stratus Hyperscale,2025-09-15,2025,Sweden,Europe,Stockholm,AI Training Campus,Yes,59.9,1835404000.0,Announced,30641135.225375626
+DC0610,Orbitron Data,2025-09-16,2025,Netherlands,Europe,Amsterdam,AI Training Campus,Yes,213.1,5916543000.0,Announced,27764162.365086816
+DC0611,Meridian DC,2025-09-18,2025,United States,North America,Northern Virginia,Colocation,No,44.7,508273000.0,Under Construction,11370760.62639821
+DC0612,Orbitron Data,2025-09-21,2025,China,Asia Pacific,Shanghai,Hyperscale,No,48.2,617344000.0,Operational,12807966.804979252
+DC0613,Gulfstream Digital,2025-09-24,2025,United States,North America,Silicon Valley,Colocation,No,16.4,241053000.0,Under Construction,14698353.658536587
+DC0614,Andes Cloud,2025-09-26,2025,United States,North America,Phoenix,Hyperscale,No,70.9,753330000.0,Announced,10625246.826516218
+DC0615,Vertex AI Compute,2025-09-27,2025,Australia,Asia Pacific,Sydney,AI Training Campus,Yes,248.1,7969771000.0,Under Construction,32123220.47561467
+DC0616,Vertex AI Compute,2025-09-28,2025,Japan,Asia Pacific,Tokyo,AI Training Campus,Yes,147.4,4463267000.0,Under Construction,30279966.07869742
+DC0617,Kestrel Enterprise IT,2025-10-01,2025,United States,North America,Columbus,Enterprise,No,13.1,120787000.0,Announced,9220381.679389313
+DC0618,Indus DataHub,2025-10-02,2025,Malaysia,Asia Pacific,Johor,Colocation,No,20.7,138569000.0,Announced,6694154.589371981
+DC0619,Andes Cloud,2025-10-07,2025,South Africa,Middle East & Africa,Johannesburg,AI Training Campus,Yes,65.2,1311215000.0,Under Construction,20110659.509202454
+DC0620,NimbusCloud,2025-10-10,2025,United States,North America,Dallas,AI Training Campus,Yes,159.3,4660408000.0,Operational,29255543.000627745
+DC0621,Gulfstream Digital,2025-10-12,2025,United States,North America,Atlanta,Edge,No,4.0,50269000.0,Operational,12567250.0
+DC0622,Polaris Cloud,2025-10-12,2025,United States,North America,Dallas,AI Training Campus,Yes,36.0,1017266000.0,Announced,28257388.888888888
+DC0623,Gulfstream Digital,2025-10-13,2025,United States,North America,Northern Virginia,Colocation,No,24.0,116160000.0,Under Construction,4840000.0
+DC0624,Rhine Compute,2025-10-13,2025,China,Asia Pacific,Shanghai,AI Inference Cluster,Yes,84.0,2215451000.0,Announced,26374416.666666668
+DC0625,Pacifica Telecom Data,2025-10-22,2025,China,Asia Pacific,Shanghai,Enterprise,No,8.1,66144000.0,Under Construction,8165925.925925926
+DC0626,Ironwood Data,2025-10-28,2025,South Korea,Asia Pacific,Seoul,Colocation,No,32.6,423101000.0,Announced,12978558.282208588
+DC0627,Vertex AI Compute,2025-11-01,2025,United States,North America,Phoenix,AI Training Campus,Yes,127.7,3581765000.0,Under Construction,28048277.21221613
+DC0628,Ironwood Data,2025-11-03,2025,Singapore,Asia Pacific,Singapore,Edge,No,4.3,61710000.0,Under Construction,14351162.790697675
+DC0629,Sakura Datacom,2025-11-04,2025,United States,North America,Northern Virginia,Colocation,No,41.9,498881000.0,Under Construction,11906467.780429594
+DC0630,Zenith Compute,2025-11-08,2025,United States,North America,Silicon Valley,AI Inference Cluster,Yes,29.5,914161000.0,Under Construction,30988508.474576272
+DC0631,NimbusCloud,2025-11-12,2025,Japan,Asia Pacific,Tokyo,Hyperscale,No,221.2,3547451000.0,Announced,16037301.08499096
+DC0632,Polaris Cloud,2025-11-14,2025,France,Europe,Paris,AI Inference Cluster,Yes,50.7,1453933000.0,Operational,28677179.487179484
+DC0633,Vertex AI Compute,2025-11-15,2025,United States,North America,Columbus,AI Inference Cluster,Yes,19.6,499456000.0,Under Construction,25482448.979591835
+DC0634,Helix Cloud,2025-11-15,2025,United Kingdom,Europe,London,AI Training Campus,Yes,99.1,4444781000.0,Under Construction,44851473.259334005
+DC0635,Ironwood Data,2025-11-20,2025,Brazil,Latin America,Sao Paulo,Edge,No,3.7,35555000.0,Operational,9609459.45945946
+DC0636,Orbitron Data,2025-11-26,2025,United States,North America,Dallas,Hyperscale,No,87.0,1310951000.0,Announced,15068402.298850575
+DC0637,Polaris Cloud,2025-11-26,2025,Ireland,Europe,Dublin,AI Inference Cluster,Yes,28.8,646543000.0,Announced,22449409.72222222
+DC0638,Pacifica Telecom Data,2025-11-27,2025,United States,North America,Silicon Valley,Enterprise,No,13.2,204235000.0,Under Construction,15472348.484848486
+DC0639,Helix Cloud,2025-11-30,2025,India,Asia Pacific,Mumbai,AI Training Campus,Yes,28.1,,Announced,
+DC0640,Helix Cloud,2025-11-30,2025,United States,North America,Dallas,Hyperscale,No,50.5,796920000.0,Operational,15780594.059405942
+DC0641,Stratus Hyperscale,2025-12-02,2025,India,Asia Pacific,Mumbai,AI Inference Cluster,Yes,13.6,180390000.0,Announced,13263970.588235294
+DC0642,Helix Cloud,2025-12-02,2025,United States,North America,Atlanta,AI Training Campus,Yes,93.4,2707228000.0,Under Construction,28985310.492505353
+DC0643,Atlas Digital Infra,2025-12-04,2025,United States,North America,Dallas,Colocation,No,57.0,335941000.0,Announced,5893701.754385965
+DC0644,BlueRidge Colo,2025-12-05,2025,Sweden,Europe,Stockholm,Colocation,No,30.9,298823000.0,Announced,9670647.24919094
+DC0645,NimbusCloud,2025-12-06,2025,Singapore,Asia Pacific,Singapore,AI Inference Cluster,Yes,14.2,447796000.0,Under Construction,31534929.57746479
+DC0646,Helix Cloud,2025-12-08,2025,South Korea,Asia Pacific,Seoul,Hyperscale,No,363.2,5110804000.0,Under Construction,14071596.91629956
+DC0647,Vertex AI Compute,2025-12-11,2025,China,Asia Pacific,Shanghai,AI Training Campus,Yes,58.5,948603000.0,Announced,16215435.897435898
+DC0648,BlueRidge Colo,2025-12-13,2025,United States,North America,Dallas,Colocation,No,25.3,380103000.0,Announced,15023833.992094861
+DC0649,Rhine Compute,2025-12-15,2025,Netherlands,Europe,Amsterdam,AI Inference Cluster,Yes,40.8,,Under Construction,
+DC0650,Andes Cloud,2025-12-15,2025,Germany,Europe,Frankfurt,AI Inference Cluster,Yes,19.2,392394000.0,Under Construction,20437187.5
+DC0651,Andes Cloud,2025-12-16,2025,United States,North America,Northern Virginia,AI Training Campus,Yes,112.9,3326832000.0,Under Construction,29467068.201948624
+DC0652,Pacifica Telecom Data,2025-12-18,2025,China,Asia Pacific,Shanghai,Enterprise,No,7.4,74916000.0,Cancelled,10123783.783783784
+DC0653,Vertex AI Compute,2025-12-18,2025,India,Asia Pacific,Mumbai,AI Inference Cluster,Yes,58.8,571300000.0,Operational,9715986.394557824
+DC0654,Polaris Cloud,2025-12-18,2025,Mexico,Latin America,Queretaro,AI Inference Cluster,Yes,12.2,147431000.0,Announced,12084508.196721312
+DC0655,Helix Cloud,2025-12-19,2025,United Kingdom,Europe,London,Hyperscale,No,77.3,1191234000.0,Announced,15410530.401034929
+DC0656,Orbitron Data,2025-12-20,2025,United States,North America,Dallas,AI Training Campus,Yes,309.5,8467755000.0,Announced,27359466.88206785
+DC0657,Stratus Hyperscale,2025-12-26,2025,South Korea,Asia Pacific,Seoul,AI Training Campus,Yes,846.6,22533271000.0,Under Construction,26616195.36971415
+DC0658,Stratus Hyperscale,2025-12-30,2025,China,Asia Pacific,Beijing,AI Training Campus,Yes,82.1,2962219000.0,Under Construction,36080621.193666264
+DC0659,Pacifica Telecom Data,2026-01-01,2026,United Arab Emirates,Middle East & Africa,Dubai,Enterprise,No,14.5,113939000.0,Under Construction,7857862.068965517
+DC0660,Polaris Cloud,2026-01-01,2026,China,Asia Pacific,Beijing,AI Inference Cluster,Yes,45.3,840421000.0,Under Construction,18552339.95584989
+DC0661,Rhine Compute,2026-01-02,2026,United States,North America,Dallas,AI Training Campus,Yes,107.0,3100670000.0,Announced,28978224.299065422
+DC0662,NimbusCloud,2026-01-02,2026,Mexico,Latin America,Queretaro,AI Inference Cluster,Yes,14.2,227221000.0,Announced,16001478.873239437
+DC0663,Stratus Hyperscale,2026-01-07,2026,India,Asia Pacific,Mumbai,AI Inference Cluster,Yes,36.9,712643000.0,Announced,19312818.428184282
+DC0664,Orbitron Data,2026-01-07,2026,Netherlands,Europe,Amsterdam,AI Inference Cluster,Yes,40.3,1469643000.0,Announced,36467568.238213405
+DC0665,Zenith Compute,2026-01-07,2026,United States,North America,Northern Virginia,AI Training Campus,Yes,128.6,1644608000.0,Announced,12788553.65474339
+DC0666,Kestrel Enterprise IT,2026-01-09,2026,Japan,Asia Pacific,Tokyo,Enterprise,No,16.0,102849000.0,Cancelled,6428062.5
+DC0667,Zenith Compute,2026-01-10,2026,Singapore,Asia Pacific,Singapore,AI Inference Cluster,Yes,10.2,296279000.0,Under Construction,29046960.784313727
+DC0668,NimbusCloud,2026-01-11,2026,China,Asia Pacific,Beijing,Hyperscale,No,142.9,,Announced,
+DC0669,Cedar Edge Networks,2026-01-11,2026,United States,North America,Northern Virginia,Edge,No,5.4,49315000.0,Announced,9132407.407407407
+DC0670,Rhine Compute,2026-01-12,2026,China,Asia Pacific,Shanghai,AI Inference Cluster,Yes,46.8,921547000.0,Announced,19691175.213675216
+DC0671,Zenith Compute,2026-01-12,2026,South Africa,Middle East & Africa,Johannesburg,AI Training Campus,Yes,66.2,1602771000.0,Announced,24211042.296072505
+DC0672,Pacifica Telecom Data,2026-01-20,2026,United Arab Emirates,Middle East & Africa,Dubai,Enterprise,No,17.2,121830000.0,Under Construction,7083139.534883721
+DC0673,Andes Cloud,2026-01-21,2026,Sweden,Europe,Stockholm,Hyperscale,No,24.1,249110000.0,Under Construction,10336514.522821575
+DC0674,Vertex AI Compute,2026-01-21,2026,China,Asia Pacific,Shanghai,AI Inference Cluster,Yes,26.8,733700000.0,Under Construction,27376865.67164179
+DC0675,Rhine Compute,2026-01-21,2026,India,Asia Pacific,Hyderabad,AI Inference Cluster,Yes,21.0,454745000.0,Announced,21654523.80952381
+DC0676,Rhine Compute,2026-01-25,2026,United Arab Emirates,Middle East & Africa,Dubai,AI Training Campus,Yes,150.5,2546166000.0,Announced,16918046.51162791
+DC0677,Andes Cloud,2026-01-27,2026,United States,North America,Silicon Valley,AI Inference Cluster,Yes,29.6,638539000.0,Under Construction,21572263.513513513
+DC0678,Vertex AI Compute,2026-01-28,2026,Mexico,Latin America,Queretaro,AI Training Campus,Yes,63.8,1510130000.0,Announced,23669749.216300942
+DC0679,Sakura Datacom,2026-01-29,2026,United Arab Emirates,Middle East & Africa,Dubai,Colocation,No,14.1,173338000.0,Under Construction,12293475.177304965
+DC0680,Zenith Compute,2026-02-04,2026,United States,North America,Phoenix,AI Training Campus,Yes,37.5,1170879000.0,Announced,31223440.0
+DC0681,Pacifica Telecom Data,2026-02-05,2026,United Kingdom,Europe,London,Enterprise,No,8.7,58485000.0,Announced,6722413.793103449
+DC0682,Pacifica Telecom Data,2026-02-07,2026,Saudi Arabia,Middle East & Africa,Riyadh,Enterprise,No,6.3,,Announced,
+DC0683,Andes Cloud,2026-02-09,2026,United States,North America,Phoenix,AI Inference Cluster,Yes,22.9,468821000.0,Under Construction,20472532.751091704
+DC0684,Quanta Racks,2026-02-09,2026,Sweden,Europe,Stockholm,AI Training Campus,Yes,157.5,4376046000.0,Announced,27784419.04761905
+DC0685,NimbusCloud,2026-02-09,2026,United Arab Emirates,Middle East & Africa,Dubai,Hyperscale,No,75.9,1073668000.0,Under Construction,14145823.451910408
+DC0686,Andes Cloud,2026-02-11,2026,United States,North America,Columbus,AI Training Campus,Yes,67.9,2765530000.0,Cancelled,40729455.08100147
+DC0687,Vertex AI Compute,2026-02-11,2026,Brazil,Latin America,Sao Paulo,AI Inference Cluster,Yes,24.9,628699000.0,Announced,25248955.823293176
+DC0688,Helix Cloud,2026-02-14,2026,United States,North America,Northern Virginia,AI Inference Cluster,Yes,32.5,654042000.0,Announced,20124369.230769232
+DC0689,Vertex AI Compute,2026-02-16,2026,China,Asia Pacific,Beijing,AI Inference Cluster,Yes,7.7,169239000.0,Announced,21979090.90909091
+DC0690,Sakura Datacom,2026-02-17,2026,Germany,Europe,Frankfurt,Colocation,No,29.6,357497000.0,Announced,12077601.35135135
+DC0691,Helix Cloud,2026-02-17,2026,India,Asia Pacific,Mumbai,Hyperscale,No,65.9,659870000.0,Announced,10013201.820940819
+DC0692,Vertex AI Compute,2026-02-18,2026,Germany,Europe,Frankfurt,AI Training Campus,Yes,158.1,3979448000.0,Announced,25170449.08285895
+DC0693,Sakura Datacom,2026-02-22,2026,United Kingdom,Europe,London,Edge,No,5.4,93255000.0,Cancelled,17269444.444444444
+DC0694,Helix Cloud,2026-02-23,2026,United States,North America,Northern Virginia,Hyperscale,No,57.8,625129000.0,Under Construction,10815380.62283737
+DC0695,Zenith Compute,2026-02-27,2026,United States,North America,Northern Virginia,AI Training Campus,Yes,109.9,2771613000.0,Under Construction,25219408.553230207
+DC0696,Quanta Racks,2026-03-03,2026,China,Asia Pacific,Shanghai,AI Training Campus,Yes,345.7,8759420000.0,Announced,25338212.322823256
+DC0697,Stratus Hyperscale,2026-03-05,2026,China,Asia Pacific,Shanghai,AI Inference Cluster,Yes,20.3,444610000.0,Announced,21901970.443349753
+DC0698,Andes Cloud,2026-03-07,2026,United States,North America,Dallas,AI Inference Cluster,Yes,55.8,961983000.0,Announced,17239838.70967742
+DC0699,Quanta Racks,2026-03-10,2026,Singapore,Asia Pacific,Singapore,AI Training Campus,Yes,511.3,21386105000.0,Announced,41826921.57246235
+DC0700,Meridian DC,2026-03-12,2026,United States,North America,Phoenix,Colocation,No,26.9,365188000.0,Under Construction,13575762.081784388
+DC0701,Orbitron Data,2026-03-16,2026,United States,North America,Phoenix,Hyperscale,No,59.1,818609000.0,Under Construction,13851252.115059221
+DC0702,Polaris Cloud,2026-03-20,2026,India,Asia Pacific,Chennai,AI Inference Cluster,Yes,43.7,661198000.0,Announced,15130389.016018305
+DC0703,Quanta Racks,2026-03-24,2026,India,Asia Pacific,Hyderabad,AI Training Campus,Yes,381.2,9540511000.0,Under Construction,25027573.452256035
+DC0704,Pacifica Telecom Data,2026-03-25,2026,India,Asia Pacific,Hyderabad,Enterprise,No,8.7,88702000.0,Under Construction,10195632.183908047
+DC0705,Quanta Racks,2026-03-26,2026,Netherlands,Europe,Amsterdam,AI Inference Cluster,Yes,34.6,747321000.0,Announced,21598872.832369942
+DC0706,Polaris Cloud,2026-03-31,2026,United States,North America,Phoenix,AI Training Campus,Yes,244.0,8013035000.0,Under Construction,32840307.37704918
+DC0707,Orbitron Data,2026-04-02,2026,United States,North America,Northern Virginia,AI Inference Cluster,Yes,27.9,709954000.0,Cancelled,25446379.928315412
+DC0708,Kestrel Enterprise IT,2026-04-06,2026,France,Europe,Paris,Enterprise,No,18.6,209068000.0,Announced,11240215.05376344
+DC0709,Andes Cloud,2026-04-06,2026,India,Asia Pacific,Hyderabad,Hyperscale,No,92.7,1049164000.0,Announced,11317842.502696872
+DC0710,Pacifica Telecom Data,2026-04-06,2026,United States,North America,Atlanta,Enterprise,No,6.6,84707000.0,Under Construction,12834393.93939394
+DC0711,Atlas Digital Infra,2026-04-14,2026,United States,North America,Phoenix,Edge,No,4.0,44459000.0,Announced,11114750.0
+DC0712,NimbusCloud,2026-04-15,2026,South Korea,Asia Pacific,Seoul,AI Training Campus,Yes,48.3,1613674000.0,Cancelled,33409399.58592133
+DC0713,Ironwood Data,2026-04-16,2026,Japan,Asia Pacific,Tokyo,Colocation,No,43.1,479246000.0,Under Construction,11119396.751740139
+DC0714,Andes Cloud,2026-04-16,2026,Canada,North America,Montreal,Hyperscale,No,87.6,1268516000.0,Under Construction,14480776.255707763
+DC0715,Vertex AI Compute,2026-04-23,2026,United States,North America,Atlanta,AI Training Campus,Yes,93.3,3061876000.0,Announced,32817534.83386924
+DC0716,NimbusCloud,2026-04-24,2026,United States,North America,Northern Virginia,Hyperscale,No,88.7,1132857000.0,Under Construction,12771781.285231115
+DC0717,NimbusCloud,2026-04-28,2026,India,Asia Pacific,Mumbai,AI Training Campus,Yes,96.9,1461581000.0,Announced,15083395.252837976
+DC0718,Polaris Cloud,2026-04-30,2026,United States,North America,Columbus,AI Training Campus,Yes,133.0,3387167000.0,Under Construction,25467421.05263158
+DC0719,Pacifica Telecom Data,2026-05-02,2026,Ireland,Europe,Dublin,Enterprise,No,9.5,88231000.0,Announced,9287473.684210526
+DC0720,Andes Cloud,2026-05-05,2026,United States,North America,Phoenix,AI Training Campus,Yes,51.0,1352701000.0,Announced,26523549.019607842
+DC0721,Helix Cloud,2026-05-08,2026,Brazil,Latin America,Sao Paulo,AI Training Campus,Yes,42.4,1501178000.0,Announced,35405141.50943396
+DC0722,Pacifica Telecom Data,2026-05-08,2026,United States,North America,Atlanta,Edge,No,7.4,95810000.0,Announced,12947297.297297297
+DC0723,Helix Cloud,2026-05-10,2026,Canada,North America,Montreal,AI Inference Cluster,Yes,24.8,530128000.0,Announced,21376129.032258064
+DC0724,NimbusCloud,2026-05-10,2026,China,Asia Pacific,Beijing,AI Training Campus,Yes,164.7,,Announced,
+DC0725,Stratus Hyperscale,2026-05-11,2026,United States,North America,Northern Virginia,AI Training Campus,Yes,333.9,9781775000.0,Announced,29295522.61156035
+DC0726,Quanta Racks,2026-05-11,2026,Singapore,Asia Pacific,Singapore,AI Training Campus,Yes,61.4,2173909000.0,Announced,35405684.03908795
+DC0727,Helix Cloud,2026-05-12,2026,China,Asia Pacific,Shanghai,AI Inference Cluster,Yes,117.5,1440497000.0,Announced,12259548.936170213
+DC0728,Rhine Compute,2026-05-15,2026,China,Asia Pacific,Beijing,AI Inference Cluster,Yes,41.0,824793000.0,Announced,20116902.43902439
+DC0729,Vertex AI Compute,2026-05-17,2026,United States,North America,Northern Virginia,AI Training Campus,Yes,52.9,1929632000.0,Announced,36476975.42533081
+DC0730,Sakura Datacom,2026-05-19,2026,Ireland,Europe,Dublin,Colocation,No,30.4,282204000.0,Under Construction,9283026.315789474
+DC0731,Zenith Compute,2026-05-19,2026,India,Asia Pacific,Mumbai,AI Inference Cluster,Yes,19.3,457258000.0,Announced,23692124.352331605
+DC0732,Meridian DC,2026-05-21,2026,Ireland,Europe,Dublin,Colocation,No,33.7,396246000.0,Under Construction,11758041.543026704
+DC0733,Gulfstream Digital,2026-05-28,2026,United Kingdom,Europe,London,Colocation,No,38.3,467219000.0,Announced,12198929.50391645
+DC0734,Andes Cloud,2026-06-01,2026,Germany,Europe,Frankfurt,Hyperscale,No,57.6,919876000.0,Under Construction,15970069.444444444
+DC0735,Cedar Edge Networks,2026-06-02,2026,United States,North America,Unknown,Edge,No,1.1,14161000.0,Announced,12873636.363636363
+DC0736,Quanta Racks,2026-06-03,2026,Saudi Arabia,Middle East & Africa,Riyadh,AI Inference Cluster,Yes,22.4,722218000.0,Under Construction,32241875.000000004
+DC0737,Rhine Compute,2026-06-06,2026,Brazil,Latin America,Sao Paulo,AI Training Campus,Yes,106.6,3333080000.0,Announced,31267166.979362104
+DC0738,Helix Cloud,2026-06-07,2026,India,Asia Pacific,Mumbai,AI Inference Cluster,Yes,13.2,189890000.0,Announced,14385606.06060606
+DC0739,Andes Cloud,2026-06-09,2026,Saudi Arabia,Middle East & Africa,Riyadh,Hyperscale,No,45.7,597942000.0,Announced,13084070.021881837
+DC0740,Ironwood Data,2026-06-09,2026,United States,North America,Northern Virginia,Edge,No,1.8,27295000.0,Announced,15163888.888888888
+DC0741,NimbusCloud,2026-06-13,2026,United States,North America,Northern Virginia,AI Inference Cluster,Yes,16.0,408922000.0,Announced,25557625.0
+DC0742,Andes Cloud,2026-06-15,2026,Brazil,Latin America,Sao Paulo,AI Training Campus,Yes,86.8,2818070000.0,Announced,32466244.239631336
+DC0743,Vertex AI Compute,2026-06-18,2026,Japan,Asia Pacific,Tokyo,AI Training Campus,Yes,104.9,3595540000.0,Cancelled,34275881.79218303
+DC0744,Helix Cloud,2026-06-18,2026,United States,North America,Phoenix,Hyperscale,No,100.1,894759000.0,Under Construction,8938651.34865135
+DC0745,Quanta Racks,2026-06-19,2026,United States,North America,Columbus,AI Inference Cluster,Yes,49.5,910769000.0,Under Construction,18399373.737373736
+DC0746,NimbusCloud,2026-06-20,2026,Japan,Asia Pacific,Tokyo,AI Training Campus,Yes,68.3,2171879000.0,Announced,31799106.881405566
+DC0747,Helix Cloud,2026-06-28,2026,India,Asia Pacific,Hyderabad,AI Training Campus,Yes,78.2,1489276000.0,Under Construction,19044450.127877235
+DC0748,Atlas Digital Infra,2026-06-29,2026,Saudi Arabia,Middle East & Africa,Riyadh,Colocation,No,11.3,135339000.0,Under Construction,11976902.654867256
+DC0749,Quanta Racks,2026-06-30,2026,United Arab Emirates,Middle East & Africa,Dubai,AI Inference Cluster,Yes,11.2,353772000.0,Announced,31586785.714285716
+DC0750,NimbusCloud,2026-07-03,2026,United States,North America,Columbus,AI Inference Cluster,Yes,105.6,2650124000.0,Under Construction,25095871.212121215
+DC0751,Orbitron Data,2026-07-06,2026,United States,North America,Dallas,AI Training Campus,Yes,57.8,1443908000.0,Under Construction,24981107.26643599
+DC0752,Stratus Hyperscale,2026-07-06,2026,United States,North America,Northern Virginia,AI Inference Cluster,Yes,35.6,841464000.0,Announced,23636629.213483144
+DC0753,Sakura Datacom,2026-07-07,2026,Germany,Europe,Frankfurt,Colocation,No,59.9,617865000.0,Announced,10314941.569282137
+DC0754,NimbusCloud,2026-07-07,2026,United States,North America,Atlanta,Hyperscale,No,64.0,833001000.0,Under Construction,13015640.625
+DC0755,Gulfstream Digital,2026-07-08,2026,United States,North America,Atlanta,Colocation,No,48.6,514535000.0,Under Construction,10587139.917695472
+DC0756,Zenith Compute,2026-07-12,2026,United Arab Emirates,Middle East & Africa,Dubai,AI Inference Cluster,Yes,17.5,506046000.0,Announced,28916914.285714287
+DC0757,Stratus Hyperscale,2026-07-13,2026,India,Asia Pacific,Mumbai,AI Inference Cluster,Yes,14.2,304168000.0,Announced,21420281.690140847
+DC0758,Kestrel Enterprise IT,2026-07-14,2026,United States,North America,Northern Virginia,Enterprise,No,6.6,65825000.0,Announced,9973484.84848485
+DC0759,Atlas Digital Infra,2026-07-18,2026,China,Asia Pacific,Beijing,Colocation,No,91.7,1040528000.0,Under Construction,11347088.331515811
+DC0760,Stratus Hyperscale,2026-07-18,2026,India,Asia Pacific,Hyderabad,AI Training Campus,Yes,145.9,3613726000.0,Announced,24768512.679917753
+DC0761,Andes Cloud,2026-07-23,2026,China,Asia Pacific,Beijing,AI Training Campus,Yes,151.6,3517953000.0,Announced,23205494.722955145
+DC0762,Orbitron Data,2026-07-24,2026,Australia,Asia Pacific,Sydney,Hyperscale,No,43.0,563663000.0,Announced,13108441.860465117
+DC0763,Zenith Compute,2026-07-27,2026,United States,North America,Phoenix,AI Inference Cluster,Yes,19.1,333628000.0,Under Construction,17467434.554973822
+DC0764,Gulfstream Digital,2026-07-30,2026,India,Asia Pacific,Hyderabad,Colocation,No,33.9,152201000.0,Announced,4489705.0147492625
+DC0765,BlueRidge Colo,2026-08-01,2026,Japan,Asia Pacific,Tokyo,Colocation,No,31.5,479113000.0,Under Construction,15209936.507936507
+DC0766,Helix Cloud,2026-08-04,2026,Netherlands,Europe,Amsterdam,AI Inference Cluster,Yes,19.9,526396000.0,Announced,26452060.30150754
+DC0767,Pacifica Telecom Data,2026-08-05,2026,United States,North America,Columbus,Enterprise,No,14.6,151477000.0,Announced,10375136.98630137
+DC0768,Vertex AI Compute,2026-08-06,2026,Brazil,Latin America,Sao Paulo,AI Training Campus,Yes,85.5,3252976000.0,Under Construction,38046502.92397661
+DC0769,Vertex AI Compute,2026-08-06,2026,United States,North America,Columbus,AI Training Campus,Yes,63.7,1850437000.0,Announced,29049246.467817895
+DC0770,Orbitron Data,2026-08-10,2026,United States,North America,Northern Virginia,AI Inference Cluster,Yes,32.8,774622000.0,Under Construction,23616524.390243903
+DC0771,Andes Cloud,2026-08-11,2026,France,Europe,Paris,AI Training Campus,Yes,137.0,4707835000.0,Announced,34363759.124087594
+DC0772,Quanta Racks,2026-08-14,2026,Singapore,Asia Pacific,Singapore,AI Inference Cluster,Yes,19.8,449617000.0,Under Construction,22707929.29292929
+DC0773,Zenith Compute,2026-08-18,2026,South Korea,Asia Pacific,Seoul,AI Inference Cluster,Yes,54.0,770105000.0,Announced,14261203.703703703
+DC0774,Andes Cloud,2026-08-25,2026,Sweden,Europe,Stockholm,AI Inference Cluster,Yes,33.2,994059000.0,Announced,29941536.14457831
+DC0775,Andes Cloud,2026-08-28,2026,Brazil,Latin America,Sao Paulo,Hyperscale,No,119.1,1702704000.0,Announced,14296423.173803527
+DC0776,Rhine Compute,2026-09-01,2026,Japan,Asia Pacific,Tokyo,AI Inference Cluster,Yes,23.6,735330000.0,Announced,31158050.847457625
+DC0777,Stratus Hyperscale,2026-09-03,2026,United States,North America,Columbus,AI Training Campus,Yes,169.1,4579301000.0,Announced,27080431.69722058
+DC0778,BlueRidge Colo,2026-09-05,2026,South Africa,Middle East & Africa,Johannesburg,Colocation,No,22.4,251914000.0,Under Construction,11246160.714285715
+DC0779,NimbusCloud,2026-09-07,2026,United States,North America,Phoenix,AI Inference Cluster,Yes,23.6,654214000.0,Under Construction,27720932.203389827
+DC0780,Orbitron Data,2026-09-12,2026,Canada,North America,Montreal,AI Inference Cluster,Yes,30.8,443667000.0,Announced,14404772.727272727
+DC0781,Vertex AI Compute,2026-09-13,2026,Sweden,Europe,Stockholm,AI Inference Cluster,Yes,7.4,199899000.0,Under Construction,27013378.378378376
+DC0782,Andes Cloud,2026-09-13,2026,Germany,Europe,Frankfurt,AI Inference Cluster,Yes,31.6,834451000.0,Under Construction,26406677.21518987
+DC0783,Orbitron Data,2026-09-14,2026,Saudi Arabia,Middle East & Africa,Riyadh,AI Training Campus,Yes,457.9,14512671000.0,Under Construction,31693974.66695785
+DC0784,Kestrel Enterprise IT,2026-09-17,2026,China,Asia Pacific,Shanghai,Enterprise,No,12.7,113016000.0,Cancelled,8898897.637795277
+DC0785,Helix Cloud,2026-09-20,2026,India,Asia Pacific,Hyderabad,Hyperscale,No,37.8,303995000.0,Cancelled,8042195.767195768
+DC0786,Kestrel Enterprise IT,2026-09-22,2026,Netherlands,Europe,Amsterdam,Enterprise,No,8.5,137051000.0,Under Construction,16123647.05882353
+DC0787,NimbusCloud,2026-09-23,2026,United States,North America,Northern Virginia,AI Training Campus,Yes,166.2,5330712000.0,Announced,32074079.422382675
+DC0788,Helix Cloud,2026-09-25,2026,Germany,Europe,Frankfurt,AI Training Campus,Yes,136.1,4135401000.0,Cancelled,30385018.36884644
+DC0789,Polaris Cloud,2026-09-27,2026,India,Asia Pacific,Mumbai,AI Inference Cluster,Yes,56.1,1028717000.0,Under Construction,18337201.426024955
+DC0790,Indus DataHub,2026-09-27,2026,United States,North America,Northern Virginia,Colocation,No,33.6,412371000.0,Announced,12272946.428571427
+DC0791,NimbusCloud,2026-10-02,2026,Singapore,Asia Pacific,Singapore,Hyperscale,No,27.7,402129000.0,Announced,14517292.418772563
+DC0792,Polaris Cloud,2026-10-03,2026,China,Asia Pacific,Beijing,AI Training Campus,Yes,54.1,1629882000.0,Announced,30127208.87245841
+DC0793,Polaris Cloud,2026-10-05,2026,Malaysia,Asia Pacific,Johor,AI Inference Cluster,Yes,30.7,390052000.0,Announced,12705276.87296417
+DC0794,Orbitron Data,2026-10-13,2026,United States,North America,Silicon Valley,AI Training Campus,Yes,76.4,2943771000.0,Cancelled,38531034.03141361
+DC0795,Stratus Hyperscale,2026-10-14,2026,Japan,Asia Pacific,Tokyo,AI Training Campus,Yes,240.0,8802625000.0,Cancelled,36677604.166666664
+DC0796,Andes Cloud,2026-10-19,2026,Singapore,Asia Pacific,Singapore,AI Training Campus,Yes,151.8,1956451000.0,Announced,12888346.508563899
+DC0797,Rhine Compute,2026-10-21,2026,India,Asia Pacific,Chennai,AI Inference Cluster,Yes,12.9,275955000.0,Announced,21391860.465116277
+DC0798,Stratus Hyperscale,2026-10-21,2026,United States,North America,Phoenix,AI Training Campus,Yes,482.1,19103367000.0,Under Construction,39625320.47293092
+DC0799,Orbitron Data,2026-10-25,2026,India,Asia Pacific,Hyderabad,AI Training Campus,Yes,80.6,2083172000.0,Under Construction,25845806.451612905
+DC0800,Orbitron Data,2026-10-28,2026,United States,North America,Dallas,AI Training Campus,Yes,68.5,1807732000.0,Announced,26390248.17518248

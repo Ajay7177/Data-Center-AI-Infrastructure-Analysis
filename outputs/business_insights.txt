@@ -1,0 +1,13 @@
+DATA CENTER & AI INFRASTRUCTURE INVESTMENT ANALYSIS
+
+- Total projects in the cleaned dataset: 800.
+- AI-focused projects: 317, representing 39.62% of all projects.
+- Year with the highest project count: 2025.
+- Year with the highest total recorded investment: 2025.
+- Country with the most projects: United States.
+- Infrastructure type with the highest total investment: AI Training Campus.
+- Average recorded project investment: $1,198,293,531.73.
+- Average project capacity: 58.00 MW.
+- Missing values remaining in the dataset: 24.
+
+Note: This project uses synthetic data. Findings are illustrative and are not verified real-world investment figures.
